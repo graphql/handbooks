@@ -20,7 +20,7 @@ function HomepageHeader() {
         <div className={styles.buttons}>
           <Link
             className="button button--secondary button--lg"
-            to="/docs/intro">
+            to="/docs/locals-program/overview">
             Explore the handbooks
           </Link>
         </div>
@@ -38,6 +38,63 @@ export default function Home(): ReactNode {
       <HomepageHeader />
       <main>
         <HomepageFeatures />
+        <section className={styles.overviewSection}>
+          <div className="container">
+            <div className={styles.overviewGrid}>
+              <div>
+                <Heading as="h2">Welcome</Heading>
+                <p>
+                  This site gathers handbooks for the programs run by the GraphQL
+                  Foundation. Each section focuses on the outcomes you are
+                  trying to achieve—whether you are launching a local meetup,
+                  preparing for a Technical Steering Committee agenda, or
+                  activating the Social Media team.
+                </p>
+                <p>
+                  Use the program navigation to jump straight to the handbook
+                  that matches your current goal. Every document begins with an
+                  admonition that calls out optional material so you can quickly
+                  decide whether to continue or skip ahead.
+                </p>
+              </div>
+              <div className={styles.guidelinesCard}>
+                <Heading as="h3">How to Use These Handbooks</Heading>
+                <ul className={styles.guidelinesList}>
+                  <li>
+                    <strong>Start with your goal.</strong> Each page is
+                    structured around the key milestones you are trying to hit
+                    and the responsibilities tied to them.
+                  </li>
+                  <li>
+                    <strong>Follow the checklists.</strong> Step-by-step lists
+                    help you move quickly while staying aligned with Foundation
+                    standards.
+                  </li>
+                  <li>
+                    <strong>Share feedback.</strong> Improvements are welcome.
+                    Open a pull request or reach out in the relevant working
+                    group to propose updates.
+                  </li>
+                </ul>
+              </div>
+            </div>
+            <div className={styles.programsCard}>
+              <Heading as="h3">Programs Covered</Heading>
+              <div className={styles.programList}>
+                <span>Locals Program</span>
+                <span>Ambassadors Program</span>
+                <span>Social Media Team</span>
+                <span>Working Groups</span>
+                <span>Technical Steering Committee (TSC)</span>
+                <span>Grants Program</span>
+              </div>
+              <p className={styles.overviewNote}>
+                Looking for guidance that is not yet documented? Let the
+                Foundation staff know so we can expand these handbooks.
+              </p>
+            </div>
+          </div>
+        </section>
       </main>
     </Layout>
   );
