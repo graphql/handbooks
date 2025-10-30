@@ -19,9 +19,11 @@ const sidebars: SidebarsConfig = {
       label: "Locals Program",
       link: { type: "doc", id: "locals-program/overview" },
       items: [
-        "locals-program/launching-a-local",
-        "locals-program/running-events",
+        "locals-program/requirements",
+        "locals-program/things-to-consider",
         "locals-program/resources",
+        "locals-program/sponsorship",
+        "locals-program/social-media",
       ],
     },
     {

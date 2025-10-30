@@ -1,13 +1,13 @@
-import {themes as prismThemes} from 'prism-react-renderer';
-import type {Config} from '@docusaurus/types';
-import type * as Preset from '@docusaurus/preset-classic';
+import { themes as prismThemes } from "prism-react-renderer";
+import type { Config } from "@docusaurus/types";
+import type * as Preset from "@docusaurus/preset-classic";
 
 // This runs in Node.js - Don't use client-side code here (browser APIs, JSX...)
 
 const config: Config = {
-  title: 'GraphQL Foundation Handbooks',
-  tagline: 'Goal-oriented guides for community leaders',
-  favicon: 'img/favicon.ico',
+  title: "GraphQL Foundation Handbooks",
+  tagline: "Goal-oriented guides for community leaders",
+  favicon: "img/favicon.ico",
 
   // Future flags, see https://docusaurus.io/docs/api/docusaurus-config#future
   future: {
@@ -15,37 +15,39 @@ const config: Config = {
   },
 
   // Set the production url of your site here
-  url: 'https://handbooks.graphql.org',
+  url: "https://handbooks.graphql.org",
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
-  baseUrl: '/',
+  baseUrl: "/",
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
-  organizationName: 'graphql', // Usually your GitHub org/user name.
-  projectName: 'handbooks', // Usually your repo name.
+  organizationName: "graphql", // Usually your GitHub org/user name.
+  projectName: "handbooks", // Usually your repo name.
 
-  onBrokenLinks: 'throw',
+  onBrokenLinks: "throw",
 
   // Even if you don't use internationalization, you can use this field to set
   // useful metadata like html lang. For example, if your site is Chinese, you
   // may want to replace "en" with "zh-Hans".
   i18n: {
-    defaultLocale: 'en',
-    locales: ['en'],
+    defaultLocale: "en",
+    locales: ["en"],
   },
 
   presets: [
     [
-      'classic',
+      "classic",
       {
         docs: {
-          sidebarPath: './sidebars.ts',
-          editUrl: 'https://github.com/graphql/handbooks/edit/main/',
+          sidebarPath: "./sidebars.ts",
+          editUrl: "https://github.com/graphql/handbooks/edit/main/",
+          showLastUpdateAuthor: false,
+          showLastUpdateTime: true,
         },
         blog: false,
         theme: {
-          customCss: './src/css/custom.css',
+          customCss: "./src/css/custom.css",
         },
       } satisfies Preset.Options,
     ],
@@ -53,69 +55,99 @@ const config: Config = {
 
   themeConfig: {
     // Replace with your project's social card
-    image: 'img/docusaurus-social-card.jpg',
+    image: "img/docusaurus-social-card.jpg",
     colorMode: {
       respectPrefersColorScheme: true,
     },
     navbar: {
-      title: 'GraphQL Handbooks',
+      title: "GraphQL Handbooks",
       logo: {
-        alt: 'GraphQL Foundation Logo',
-        src: 'img/logo.svg',
+        alt: "GraphQL Foundation Logo",
+        src: "img/logo.svg",
       },
       items: [
-        {type: 'doc', docId: 'locals-program/overview', label: 'Locals', position: 'left'},
-        {type: 'doc', docId: 'ambassadors-program/overview', label: 'Ambassadors', position: 'left'},
-        {type: 'doc', docId: 'social-media/overview', label: 'Social Media', position: 'left'},
-        {type: 'doc', docId: 'working-groups/overview', label: 'Working Groups', position: 'left'},
-        {type: 'doc', docId: 'tsc/overview', label: 'TSC', position: 'left'},
-        {type: 'doc', docId: 'grants-program/overview', label: 'Grants', position: 'left'},
         {
-          href: 'https://github.com/graphql',
-          label: 'GitHub',
-          position: 'right',
+          type: "doc",
+          docId: "locals-program/overview",
+          label: "Locals",
+          position: "left",
+        },
+        {
+          type: "doc",
+          docId: "ambassadors-program/overview",
+          label: "Ambassadors",
+          position: "left",
+        },
+        {
+          type: "doc",
+          docId: "social-media/overview",
+          label: "Social Media",
+          position: "left",
+        },
+        {
+          type: "doc",
+          docId: "working-groups/overview",
+          label: "Working Groups",
+          position: "left",
+        },
+        { type: "doc", docId: "tsc/overview", label: "TSC", position: "left" },
+        {
+          type: "doc",
+          docId: "grants-program/overview",
+          label: "Grants",
+          position: "left",
+        },
+        {
+          href: "https://graphql.org/codeofconduct/",
+          label: "Code of Conduct",
+          position: "right",
+        },
+        {
+          href: "https://graphql.org/brand/",
+          label: "Brand Guidelines",
+          position: "right",
         },
       ],
     },
     footer: {
-      style: 'dark',
+      style: "dark",
       links: [
         {
-          title: 'Docs',
+          title: "Docs",
           items: [
             {
-              label: 'Start Here',
-              to: '/',
+              label: "Start Here",
+              to: "/",
             },
           ],
         },
         {
-          title: 'Community',
+          title: "Community",
           items: [
             {
-              label: 'Project Meetings',
-              href: 'https://graphql.org/community/contribute/project-meetings/',
+              label: "Project Meetings",
+              href: "https://graphql.org/community/contribute/project-meetings/",
             },
             {
-              label: 'Discord',
-              href: 'https://discord.gg/graphql',
+              label: "Discord",
+              href: "https://discord.gg/graphql",
             },
             {
-              label: 'Events',
-              href: 'https://graphql.org/community/events/',
+              label: "Events",
+              href: "https://graphql.org/community/events/",
             },
           ],
         },
         {
-          title: 'More',
+          title: "More",
           items: [
             {
-              label: 'GitHub',
-              href: 'https://github.com/graphql',
+              label: "GitHub",
+              href: "https://github.com/graphql",
             },
             {
-              label: 'GraphQL Foundation',
-              href: 'https://graphql.org/',
+              label: "GraphQL Foundation",
+              href: "https://graphql.org/",
             },
           ],
         },
