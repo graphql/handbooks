@@ -22,10 +22,10 @@ const sidebars: SidebarsConfig = {
     "locals-program/social-media",
   ],
   ambassadors: [
-    "ambassadors-program/overview",
-    "ambassadors-program/responsibilities",
-    "ambassadors-program/organizer-toolkit",
+    "ambassadors-program/index",
+    "ambassadors-program/program-overview",
     "ambassadors-program/standards",
+    "ambassadors-program/organizer-overview",
   ],
   "social-media": [
     "social-media/overview",

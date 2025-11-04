@@ -32,7 +32,7 @@ Launching a new GraphQL Local Gathering follows a predictable set of milestones.
 
 ### 5. When will your next event be?
 
-- Announcing in advance can help increase attendance.
+- Announcing the date of the next event at the current one can help increase attendance.
 
 ### 6. Where can people reserve tickets online?
 
@@ -40,4 +40,4 @@ Launching a new GraphQL Local Gathering follows a predictable set of milestones.
 
 ### 7. Do you have slides prepared?
 
-- The Local initiative will be making slides available, so reach out if you would like a copy of those.
+- The Local initiative [makes slide templates available](./resources#template-slide-deck) for welcome and closing remarks, feely available to use by Locals organizers and speakers if desired.

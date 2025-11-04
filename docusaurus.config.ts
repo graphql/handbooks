@@ -74,7 +74,7 @@ const config: Config = {
         },
         {
           type: "doc",
-          docId: "ambassadors-program/overview",
+          docId: "ambassadors-program/index",
           label: "Ambassadors",
           position: "left",
         },

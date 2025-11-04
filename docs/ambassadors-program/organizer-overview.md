@@ -1,11 +1,11 @@
 ---
-title: Organizer Toolkit
-sidebar_position: 3
+title: Organizer Overview
+sidebar_position: 4
 sidebar: ambassadors
 ---
 
 :::info Only need the excellence checklist?
-Jump to [Standards Review](./standards.md) for the evaluation rubric.
+This is an overview for the Ambassador Program organizers, see [the Program Overview](./program-overview.mdx) for an overview for Ambassadors and applicants.
 :::
 
 Program organizers coordinate onboarding, match ambassadors with opportunities, and keep the global community aligned.

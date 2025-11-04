@@ -215,12 +215,14 @@ body {
   color: rgba(255, 255, 255, 0.64);
 }
 
-.contactButtonContainer {
+.contactButtonContainer,
+.linkButtonContainer {
   display: flex;
   justify-content: center;
 }
 
-.contactButton {
+.contactButton,
+.linkButton {
   display: inline-flex;
   align-items: center;
   justify-content: center;
@@ -236,15 +238,18 @@ body {
   transition: background-color 0.2s ease, color 0.2s ease;
 }
 
-.contactButton:hover {
+.contactButton:hover,
+.linkButton:hover {
   background-color: rgba(225, 0, 152, 0.4);
   color: #ffffff;
 }
 
-.contactButton:focus-visible {
+.contactButton:focus-visible,
+.linkButton:focus-visible {
   outline: 2px solid rgba(255, 255, 255, 0.6);
 }
 
-[data-theme="dark"] .contactButton:focus-visible {
+[data-theme="dark"] .contactButton:focus-visible,
+[data-theme="dark"] .linkButton:focus-visible {
   outline-color: rgba(255, 255, 255, 0.8);
 }
