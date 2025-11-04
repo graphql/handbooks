@@ -1,4 +1,4 @@
-import type { SidebarsConfig } from "@docusaurus/plugin-content-docs";
+import type { SidebarsConfig } from '@docusaurus/plugin-content-docs';
 
 // This runs in Node.js - Don't use client-side code here (browser APIs, JSX...)
 
@@ -14,40 +14,40 @@ import type { SidebarsConfig } from "@docusaurus/plugin-content-docs";
  */
 const sidebars: SidebarsConfig = {
   locals: [
-    "locals-program/overview",
-    "locals-program/requirements",
-    "locals-program/things-to-consider",
-    "locals-program/resources",
-    "locals-program/sponsorship",
-    "locals-program/social-media",
+    'locals-program/overview',
+    'locals-program/requirements',
+    'locals-program/things-to-consider',
+    'locals-program/resources',
+    'locals-program/sponsorship',
+    'locals-program/social-media',
   ],
   ambassadors: [
-    "ambassadors-program/index",
-    "ambassadors-program/program-overview",
-    "ambassadors-program/standards",
-    "ambassadors-program/organizer-overview",
+    'ambassadors-program/index',
+    'ambassadors-program/program-overview',
+    'ambassadors-program/standards',
+    'ambassadors-program/organizer-overview',
   ],
-  "social-media": [
-    "social-media/overview",
-    "social-media/campaign-playbook",
-    "social-media/voice-and-visuals",
+  'social-media': [
+    'social-media/overview',
+    'social-media/campaign-playbook',
+    'social-media/voice-and-visuals',
   ],
-  "working-groups": [
-    "working-groups/overview",
-    "working-groups/join-a-meeting",
-    "working-groups/facilitation-guide",
-    "working-groups/async-contributions",
+  'working-groups': [
+    'working-groups/overview',
+    'working-groups/join-a-meeting',
+    'working-groups/facilitation-guide',
+    'working-groups/async-contributions',
   ],
   tsc: [
-    "tsc/overview",
-    "tsc/meeting-prep",
-    "tsc/observer-etiquette",
-    "tsc/spec-proposals",
+    'tsc/overview',
+    'tsc/meeting-prep',
+    'tsc/observer-etiquette',
+    'tsc/spec-proposals',
   ],
   grants: [
-    "grants-program/overview",
-    "grants-program/prepare-a-proposal",
-    "grants-program/reporting-and-renewal",
+    'grants-program/overview',
+    'grants-program/prepare-a-proposal',
+    'grants-program/reporting-and-renewal',
   ],
 };
 

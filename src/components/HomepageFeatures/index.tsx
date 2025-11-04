@@ -1,4 +1,4 @@
-import type {ReactNode} from 'react';
+import type { ReactNode } from 'react';
 import Heading from '@theme/Heading';
 import styles from './styles.module.css';
 
@@ -14,8 +14,9 @@ const FeatureList: FeatureItem[] = [
     Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
     description: (
       <>
-        Every handbook is written around outcomes—launching chapters, leading working groups,
-        securing grants—so you always know the next action to take.
+        Every handbook is written around outcomes—launching chapters, leading
+        working groups, securing grants—so you always know the next action to
+        take.
       </>
     ),
   },
@@ -41,7 +42,7 @@ const FeatureList: FeatureItem[] = [
   },
 ];
 
-function Feature({title, Svg, description}: FeatureItem) {
+function Feature({ title, Svg, description }: FeatureItem) {
   return (
     <div className={styles.featureCard}>
       <div className={styles.featureIcon}>
