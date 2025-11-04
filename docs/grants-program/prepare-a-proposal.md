@@ -4,9 +4,12 @@ sidebar_position: 2
 sidebar: grants
 ---
 
-:::tip Returning grantee? Head to
-[Reporting & Renewal](./reporting-and-renewal.md) to ensure past deliverables
-are complete before submitting again. :::
+:::tip Returning grantee?
+
+Head to [Reporting & Renewal](./reporting-and-renewal.md) to ensure past
+deliverables are complete before submitting again.
+
+:::
 
 Use this checklist to submit a compelling grant application.
 

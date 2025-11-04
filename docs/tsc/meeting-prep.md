@@ -4,8 +4,12 @@ sidebar_position: 2
 sidebar: tsc
 ---
 
-:::warning No agenda item? If you are attending as an observer without a topic,
-review [Observer Etiquette](./observer-etiquette.md) instead. :::
+:::warning No agenda item?
+
+If you are attending as an observer without a topic, review
+[Observer Etiquette](./observer-etiquette.md) instead.
+
+:::
 
 TSC meetings follow the general
 [Working Group joining guide](../working-groups/join-a-meeting.md) with

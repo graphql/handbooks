@@ -4,9 +4,12 @@ sidebar_position: 4
 sidebar: working-groups
 ---
 
-:::info Prefer specs work? If you are contributing to the GraphQL specification
-directly, check the [TSC workflow guidelines](../tsc/spec-proposals.md) for
-deeper process details. :::
+:::info Prefer specs work?
+
+If you are contributing to the GraphQL specification directly, check the
+[TSC workflow guidelines](../tsc/spec-proposals.md) for deeper process details.
+
+:::
 
 You do not need to attend every meeting to contribute meaningfully. Use
 asynchronous channels to stay involved between sessions.

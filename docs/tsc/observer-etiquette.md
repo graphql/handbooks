@@ -4,8 +4,12 @@ sidebar_position: 3
 sidebar: tsc
 ---
 
-:::info Presenting soon? Review [Prepare for a TSC Meeting](./meeting-prep.md)
-if you will be requesting time on the agenda. :::
+:::info Presenting soon?
+
+Review [Prepare for a TSC Meeting](./meeting-prep.md) if you will be requesting
+time on the agenda.
+
+:::
 
 Observers are welcome at TSC meetings to stay informed and contribute
 asynchronously. Follow these guidelines to keep sessions running smoothly.

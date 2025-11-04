@@ -4,9 +4,13 @@ sidebar_position: 2
 sidebar: working-groups
 ---
 
-:::info Already on the calendar? If you are confirmed for an upcoming session,
-skip ahead to [Prepare for Agenda Items](#prepare-for-agenda-items) to finalize
-your contributions. :::
+:::info Already on the calendar?
+
+If you are confirmed for an upcoming session, skip ahead to
+[Prepare for Agenda Items](#prepare-for-agenda-items) to finalize your
+contributions.
+
+:::
 
 Joining a GraphQL working group meeting is open to contributors who accept the
 participation guidelines and code of conduct.

@@ -6,8 +6,12 @@ sidebar: ambassadors
 
 # GraphQL Ambassador Program Standards of Excellence
 
-:::note How to become an Ambassador Read and agree to the Ambassador Standards
-of Excellence, and then [find out how to apply]() :::
+:::note How to become an Ambassador
+
+Read and agree to the Ambassador Standards of Excellence, and then
+[find out how to apply]()
+
+:::
 
 While the wider GraphQL community abides by the
 [contributor covenant code of conduct](https://graphql.org/codeofconduct/), a

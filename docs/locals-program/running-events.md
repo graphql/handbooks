@@ -4,9 +4,12 @@ sidebar_position: 3
 sidebar: locals
 ---
 
-:::tip Planning a workshop? If you are designing a hands-on lab instead of a
-talk-focused meetup, skip straight to [Format Playbook](#format-playbook) for
-workshop-specific guidance. :::
+:::tip Planning a workshop?
+
+If you are designing a hands-on lab instead of a talk-focused meetup, skip
+straight to [Format Playbook](#format-playbook) for workshop-specific guidance.
+
+:::
 
 Consistent, high-quality events keep your community engaged and help you surface
 local GraphQL success stories. Use these guidelines to streamline planning and

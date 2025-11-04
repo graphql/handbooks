@@ -4,8 +4,12 @@ sidebar_position: 3
 sidebar: locals
 ---
 
-:::info Looking for funding? If your immediate need is event sponsorship, head
-to [Locals Sponsorship](./sponsorship.md) first. :::
+:::info Looking for funding?
+
+If your immediate need is event sponsorship, head to
+[Locals Sponsorship](./sponsorship.md) first.
+
+:::
 
 ## Mailing list
 

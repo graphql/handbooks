@@ -4,8 +4,12 @@ sidebar_position: 3
 sidebar: grants
 ---
 
-:::info First-time applicant? Review [Program Overview](./overview.md) to ensure
-your project aligns before preparing reports. :::
+:::info First-time applicant?
+
+Review [Program Overview](./overview.md) to ensure your project aligns before
+preparing reports.
+
+:::
 
 Transparent reporting keeps the grants program sustainable and demonstrates
 impact to the wider community.

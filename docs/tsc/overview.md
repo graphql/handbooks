@@ -4,8 +4,11 @@ sidebar_position: 1
 sidebar: tsc
 ---
 
-:::tip Just need meeting logistics? Skip to
-[Prepare for a TSC Meeting](./meeting-prep.md) for week-of checklists. :::
+:::tip Just need meeting logistics?
+
+Skip to [Prepare for a TSC Meeting](./meeting-prep.md) for week-of checklists.
+
+:::
 
 The GraphQL Technical Steering Committee (TSC) is responsible for the health and
 direction of the GraphQL specification and related open-source projects. Its

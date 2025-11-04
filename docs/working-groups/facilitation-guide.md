@@ -4,8 +4,12 @@ sidebar_position: 3
 sidebar: working-groups
 ---
 
-:::tip Only need agenda templates? Jump down to [Templates](#templates) if you
-already have facilitation experience and just require docs. :::
+:::tip Only need agenda templates?
+
+Jump down to [Templates](#templates) if you already have facilitation experience
+and just require docs.
+
+:::
 
 Effective facilitation keeps working group meetings inclusive, efficient, and
 outcome-driven.

@@ -4,9 +4,12 @@ sidebar_position: 3
 sidebar: locals
 ---
 
-:::note Already approved? If your Local is listed in the Locals directory and
-you are preparing for your next meetup, move ahead to
-[Resources](./resources.md). :::
+:::note Already approved?
+
+If your Local is listed in the Locals directory and you are preparing for your
+next meetup, move ahead to [Resources](./resources.md)
+
+:::
 
 Launching a new GraphQL Local Gathering follows a predictable set of milestones.
 Use the checklist below to move from idea to your first public event.

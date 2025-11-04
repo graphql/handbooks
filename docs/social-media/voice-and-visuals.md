@@ -4,9 +4,12 @@ sidebar_position: 3
 sidebar: social-media
 ---
 
-:::note Only need the accessibility checklist? Skip to
-[Inclusive Delivery](#inclusive-delivery) to review requirements before
-publishing. :::
+:::note Only need the accessibility checklist?
+
+Skip to [Inclusive Delivery](#inclusive-delivery) to review requirements before
+publishing.
+
+:::
 
 Consistent voice and accessible visuals reinforce the trustworthiness of
 Foundation channels.

@@ -4,10 +4,13 @@ sidebar_position: 4
 sidebar: ambassadors
 ---
 
-:::info Only need the excellence checklist? This is an overview for the
-Ambassador Program organizers, see
+:::info Only need the excellence checklist?
+
+This is an overview for the Ambassador Program organizers, see
 [the Program Overview](./program-overview.mdx) for an overview for Ambassadors
-and applicants. :::
+and applicants.
+
+:::
 
 The following is an overview of the GraphQL Ambassador Program for the
 organizers (the Foundation, community working group and other interested

@@ -4,8 +4,12 @@ sidebar_position: 4
 sidebar: tsc
 ---
 
-:::warning Only need the template? Scroll down to
-[Proposal Packet](#proposal-packet) for the files you must prepare. :::
+:::warning Only need the template?
+
+Scroll down to [Proposal Packet](#proposal-packet) for the files you must
+prepare.
+
+:::
 
 Spec proposals often begin in a working group but require TSC alignment for
 final approval. Use this guide to navigate the process.

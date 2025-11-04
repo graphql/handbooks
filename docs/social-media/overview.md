@@ -4,8 +4,12 @@ sidebar_position: 1
 sidebar: social-media
 ---
 
-:::tip Only launching a campaign? Head directly to
-[Campaign Playbook](./campaign-playbook.md) for brief-by-brief guidance. :::
+:::tip Only launching a campaign?
+
+Head directly to [Campaign Playbook](./campaign-playbook.md) for brief-by-brief
+guidance.
+
+:::
 
 The Social Media Team amplifies the work of the GraphQL community, drives
 awareness of Foundation initiatives, and protects the brand’s tone across

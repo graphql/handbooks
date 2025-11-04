@@ -4,8 +4,12 @@ sidebar_position: 1
 sidebar: grants
 ---
 
-:::info Only need submission steps? Jump directly to
-[Prepare a Proposal](./prepare-a-proposal.md) for the checklist. :::
+:::info Only need submission steps?
+
+Jump directly to [Prepare a Proposal](./prepare-a-proposal.md) for the
+checklist.
+
+:::
 
 The Community Grants Program funds initiatives that expand the GraphQL
 ecosystem—events, educational resources, tooling improvements, and research. The

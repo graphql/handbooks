@@ -4,8 +4,12 @@ sidebar_position: 4
 sidebar: locals
 ---
 
-:::info Looking for other resources? Slide templates, mailing list, swag and
-more at [Resources & Templates](./resources.md). :::
+:::info Looking for other resources?
+
+Slide templates, mailing list, swag and more at
+[Resources & Templates](./resources.md).
+
+:::
 
 Once you have confirmed you agree to the
 [Local Gathering Requirements](./requirements) you will be introduced to a key

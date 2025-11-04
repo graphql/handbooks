@@ -4,9 +4,12 @@ sidebar_position: 2
 sidebar: social-media
 ---
 
-:::info Need brand guidelines first? Check
-[Voice & Visuals](./voice-and-visuals.md) before drafting creative if you have
-not worked on recent campaigns. :::
+:::info Need brand guidelines first?
+
+Check [Voice & Visuals](./voice-and-visuals.md) before drafting creative if you
+have not worked on recent campaigns.
+
+:::
 
 Use this playbook to scope and execute social campaigns that support Foundation
 goals.

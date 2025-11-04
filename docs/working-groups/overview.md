@@ -4,9 +4,12 @@ sidebar_position: 1
 sidebar: working-groups
 ---
 
-:::tip Only need joining instructions? Jump to
-[Join a Meeting](./join-a-meeting.md) if you are ready to participate right
-away. :::
+:::tip Only need joining instructions?
+
+Jump to [Join a Meeting](./join-a-meeting.md) if you are ready to participate
+right away.
+
+:::
 
 GraphQL Working Groups (WGs) bring maintainers, implementers, and community
 experts together to shape the future of the GraphQL specification and ecosystem.

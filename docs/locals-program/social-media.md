@@ -4,10 +4,14 @@ sidebar_position: 5
 sidebar: locals
 ---
 
-:::info Looking for other resources? If your immediate need is event sponsorship
-head to [Locals Sponsorship](./sponsorship.md) and see other resources such as
-the Locals mailing list and slide templates at
-[Resources & Templates](./resources.md). :::
+:::info Looking for other resources?
+
+If your immediate need is event sponsorship head to
+[Locals Sponsorship](./sponsorship.md) and see other resources such as the
+Locals mailing list and slide templates at
+[Resources & Templates](./resources.md).
+
+:::
 
 ## BlueSky, LinkedIn & X
 
