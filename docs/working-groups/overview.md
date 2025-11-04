@@ -1,6 +1,7 @@
 ---
 title: Overview & Goals
 sidebar_position: 1
+sidebar: working-groups
 ---
 
 :::tip Only need joining instructions?

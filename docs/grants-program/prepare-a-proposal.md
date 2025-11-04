@@ -1,6 +1,7 @@
 ---
 title: Prepare a Proposal
 sidebar_position: 2
+sidebar: grants
 ---
 
 :::tip Returning grantee?

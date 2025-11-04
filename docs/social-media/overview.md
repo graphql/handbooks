@@ -1,6 +1,7 @@
 ---
 title: Program Overview
 sidebar_position: 1
+sidebar: social-media
 ---
 
 :::tip Only launching a campaign?

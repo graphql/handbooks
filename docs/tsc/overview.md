@@ -1,6 +1,7 @@
 ---
 title: TSC Overview
 sidebar_position: 1
+sidebar: tsc
 ---
 
 :::tip Just need meeting logistics?

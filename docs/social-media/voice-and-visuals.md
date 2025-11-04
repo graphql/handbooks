@@ -1,6 +1,7 @@
 ---
 title: Voice & Visuals
 sidebar_position: 3
+sidebar: social-media
 ---
 
 :::note Only need the accessibility checklist?

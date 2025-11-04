@@ -1,13 +1,14 @@
 ---
 title: Locals Sponsorship
 sidebar_position: 4
+sidebar: locals
 ---
 
 :::info Looking for other resources?
 Slide templates, mailing list, swag and more at [Resources & Templates](./resources.md).
 :::
 
-Once you have confirmed you agree to the [Local Gathering Requirements]() you will be introduced to a key staff representative who will be the person to talk to with regard to any billing/legal enquiries/etc.
+Once you have confirmed you agree to the [Local Gathering Requirements](./requirements) you will be introduced to a key staff representative who will be the person to talk to with regard to any billing/legal enquiries/etc.
 
 We track our community support program via the LFX Crowdfunding tool located at https://crowdfunding.lfx.linuxfoundation.org/projects/graphql - to add you as a beneficiary we will need you to provide the following information:
 

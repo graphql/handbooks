@@ -1,6 +1,7 @@
 ---
 title: Standards Review
 sidebar_position: 4
+sidebar: ambassadors
 ---
 
 :::note Preparing for renewal?

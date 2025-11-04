@@ -1,6 +1,7 @@
 ---
 title: Facilitation Guide
 sidebar_position: 3
+sidebar: working-groups
 ---
 
 :::tip Only need agenda templates?

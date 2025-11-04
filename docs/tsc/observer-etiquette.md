@@ -1,6 +1,7 @@
 ---
 title: Observer Etiquette
 sidebar_position: 3
+sidebar: tsc
 ---
 
 :::info Presenting soon?

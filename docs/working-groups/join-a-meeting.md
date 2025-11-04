@@ -1,6 +1,7 @@
 ---
 title: Join a Meeting
 sidebar_position: 2
+sidebar: working-groups
 ---
 
 :::info Already on the calendar?

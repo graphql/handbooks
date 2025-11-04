@@ -1,6 +1,7 @@
 ---
 title: Run High-Impact Events
 sidebar_position: 3
+sidebar: locals
 ---
 
 :::tip Planning a workshop?

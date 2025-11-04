@@ -1,6 +1,7 @@
 ---
 title: Asynchronous Contributions
 sidebar_position: 4
+sidebar: working-groups
 ---
 
 :::info Prefer specs work?

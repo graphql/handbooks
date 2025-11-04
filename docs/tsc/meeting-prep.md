@@ -1,6 +1,7 @@
 ---
 title: Prepare for a TSC Meeting
 sidebar_position: 2
+sidebar: tsc
 ---
 
 :::warning No agenda item?

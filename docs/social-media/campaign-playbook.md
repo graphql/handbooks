@@ -1,6 +1,7 @@
 ---
 title: Campaign Playbook
 sidebar_position: 2
+sidebar: social-media
 ---
 
 :::info Need brand guidelines first?

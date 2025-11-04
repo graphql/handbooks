@@ -1,6 +1,7 @@
 ---
 title: Resources & Templates
 sidebar_position: 3
+sidebar: locals
 ---
 
 :::info Looking for funding?

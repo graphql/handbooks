@@ -1,6 +1,7 @@
 ---
 title: Locals on Social Media
 sidebar_position: 5
+sidebar: locals
 ---
 
 :::info Looking for other resources?

@@ -1,6 +1,7 @@
 ---
 title: Ambassador Commitments
 sidebar_position: 2
+sidebar: ambassadors
 ---
 
 :::warning Focused on organizers?

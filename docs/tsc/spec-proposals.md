@@ -1,6 +1,7 @@
 ---
 title: Shepherding Spec Proposals
 sidebar_position: 4
+sidebar: tsc
 ---
 
 :::warning Only need the template?
