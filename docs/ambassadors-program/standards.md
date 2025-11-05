@@ -1,10 +1,7 @@
 ---
 title: Standards of Excellence
-sidebar_position: 3
 sidebar: ambassadors
 ---
-
-# GraphQL Ambassador Program Standards of Excellence
 
 :::note How to become an Ambassador
 
