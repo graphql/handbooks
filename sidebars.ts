@@ -1,4 +1,4 @@
-import type { SidebarsConfig } from '@docusaurus/plugin-content-docs';
+import type { SidebarsConfig } from "@docusaurus/plugin-content-docs";
 
 // This runs in Node.js - Don't use client-side code here (browser APIs, JSX...)
 
@@ -14,44 +14,44 @@ import type { SidebarsConfig } from '@docusaurus/plugin-content-docs';
  */
 const sidebars: SidebarsConfig = {
   locals: [
-    'locals-program/overview',
-    'locals-program/requirements',
-    'locals-program/things-to-consider',
-    'locals-program/resources',
-    'locals-program/sponsorship',
-    'locals-program/social-media',
+    "locals/overview",
+    "locals/requirements",
+    "locals/things-to-consider",
+    "locals/resources",
+    "locals/sponsorship",
+    "locals/social-media",
   ],
   ambassadors: [
-    'ambassadors-program/overview',
-    'ambassadors-program/requirements',
-    'ambassadors-program/tasks',
-    'ambassadors-program/standards',
-    'ambassadors-program/application',
-    'ambassadors-program/foundation',
-    'ambassadors-program/financial-support',
-    'ambassadors-program/organizer-overview',
+    "ambassadors/overview",
+    "ambassadors/requirements",
+    "ambassadors/tasks",
+    "ambassadors/standards",
+    "ambassadors/application",
+    "ambassadors/foundation",
+    "ambassadors/financial-support",
+    "ambassadors/organizer-overview",
   ],
-  'social-media': [
-    'social-media/overview',
-    'social-media/campaign-playbook',
-    'social-media/voice-and-visuals',
+  "social-media": [
+    "social-media/overview",
+    "social-media/campaign-playbook",
+    "social-media/voice-and-visuals",
   ],
-  'working-groups': [
-    'working-groups/overview',
-    'working-groups/join-a-meeting',
-    'working-groups/facilitation-guide',
-    'working-groups/async-contributions',
+  wg: [
+    "wg/overview",
+    "wg/join-a-meeting",
+    "wg/facilitation-guide",
+    "wg/async-contributions",
   ],
   tsc: [
-    'tsc/overview',
-    'tsc/meeting-prep',
-    'tsc/observer-etiquette',
-    'tsc/spec-proposals',
+    "tsc/overview",
+    "tsc/meeting-prep",
+    "tsc/observer-etiquette",
+    "tsc/spec-proposals",
   ],
   grants: [
-    'grants-program/overview',
-    'grants-program/prepare-a-proposal',
-    'grants-program/reporting-and-renewal',
+    "grants/overview",
+    "grants/prepare-a-proposal",
+    "grants/reporting-and-renewal",
   ],
 };
 

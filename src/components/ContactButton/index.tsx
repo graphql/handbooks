@@ -1,5 +1,5 @@
-import type { ReactNode } from 'react';
-import clsx from 'clsx';
+import type { ReactNode } from "react";
+import clsx from "clsx";
 
 type Props = {
   mailto: string;
@@ -20,7 +20,7 @@ export default function ContactButton({
       : `mailto:${mailto}`;
 
   return (
-    <div className={clsx('contactButtonContainer', containerClassName)}>
+    <div className={clsx("contactButtonContainer", containerClassName)}>
       <a className="contactButton" href={href}>
         {children}
       </a>

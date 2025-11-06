@@ -16,7 +16,7 @@ If you are attending as an observer without a topic, review
 :::
 
 TSC meetings follow the general
-[Working Group joining guide](../working-groups/join-a-meeting.md) with
+[Working Group joining guide](../wg/join-a-meeting.md) with
 additional expectations for decision-making.
 
 ## Timeline
