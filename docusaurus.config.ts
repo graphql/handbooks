@@ -6,7 +6,8 @@ import type * as Preset from '@docusaurus/preset-classic';
 
 const config: Config = {
   title: 'GraphQL Foundation Handbooks',
-  tagline: 'Goal-oriented guides for community leaders',
+  tagline:
+    'Documentation and guides for GraphQL Foundation processes and programs',
   favicon: 'img/favicon.ico',
 
   // Future flags, see https://docusaurus.io/docs/api/docusaurus-config#future
