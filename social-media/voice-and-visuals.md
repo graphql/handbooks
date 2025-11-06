@@ -1,7 +1,6 @@
 ---
 title: Voice & Visuals
 sidebar_position: 3
-sidebar: social-media
 ---
 
 TODO

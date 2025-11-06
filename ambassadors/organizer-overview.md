@@ -1,6 +1,5 @@
 ---
 title: Organizer Toolkit
-sidebar: ambassadors
 ---
 
 :::info Only need the excellence checklist?

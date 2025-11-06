@@ -1,7 +1,6 @@
 ---
 title: Program Overview
 sidebar_position: 1
-sidebar: grants
 ---
 
 :::info Only need submission steps?

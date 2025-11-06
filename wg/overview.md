@@ -1,7 +1,6 @@
 ---
 title: Overview & Goals
 sidebar_position: 1
-sidebar: wg
 ---
 
 TODO

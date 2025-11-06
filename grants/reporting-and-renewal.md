@@ -1,7 +1,6 @@
 ---
 title: Reporting & Renewal
 sidebar_position: 3
-sidebar: grants
 ---
 
 :::info First-time applicant?

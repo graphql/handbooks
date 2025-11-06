@@ -1,7 +1,6 @@
 ---
 title: Join a Meeting
 sidebar_position: 2
-sidebar: wg
 ---
 
 TODO

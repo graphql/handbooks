@@ -1,7 +1,6 @@
 ---
 title: Locals Sponsorship
 sidebar_position: 4
-sidebar: locals
 ---
 
 :::info Looking for other resources?

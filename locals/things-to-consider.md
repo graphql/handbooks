@@ -1,7 +1,6 @@
 ---
 title: Things to Consider
 sidebar_position: 3
-sidebar: locals
 ---
 
 :::note Already approved?

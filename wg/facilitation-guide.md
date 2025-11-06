@@ -1,7 +1,6 @@
 ---
 title: Facilitation Guide
 sidebar_position: 3
-sidebar: wg
 ---
 
 TODO

@@ -1,7 +1,6 @@
 ---
 title: TSC Overview
 sidebar_position: 1
-sidebar: tsc
 ---
 
 TODO

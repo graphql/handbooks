@@ -1,6 +1,5 @@
 ---
 title: Program Overview
-sidebar: ambassadors
 ---
 
 The GraphQL Ambassador Program was launched at GraphQL Conf 2025 with an initial

@@ -1,6 +1,5 @@
 ---
 title: Standards of Excellence
-sidebar: ambassadors
 ---
 
 :::note How to become an Ambassador

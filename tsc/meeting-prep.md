@@ -1,7 +1,6 @@
 ---
 title: Prepare for a TSC Meeting
 sidebar_position: 2
-sidebar: tsc
 ---
 
 TODO

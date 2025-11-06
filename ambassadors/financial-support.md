@@ -1,6 +1,5 @@
 ---
 title: Financial Support
-sidebar: ambassadors
 ---
 
 :::info Only need the excellence checklist?
