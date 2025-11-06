@@ -1,8 +1,26 @@
 import { themes as prismThemes } from "prism-react-renderer";
-import type { Config } from "@docusaurus/types";
+import type { Config, PluginConfig } from "@docusaurus/types";
 import type * as Preset from "@docusaurus/preset-classic";
 
 // This runs in Node.js - Don't use client-side code here (browser APIs, JSX...)
+
+/**
+ * Creates a plugin config for this folder in the repo
+ */
+function docs(path: string): PluginConfig {
+  return [
+    "@docusaurus/plugin-content-docs",
+    {
+      id: path,
+      path: path,
+      routeBasePath: path,
+      sidebarPath: `./sidebars.${path}.ts`,
+      editUrl: "https://github.com/graphql/handbooks/edit/main/",
+      showLastUpdateAuthor: false,
+      showLastUpdateTime: true,
+    },
+  ];
+}
 
 const config: Config = {
   title: "GraphQL Foundation Handbooks",
@@ -50,78 +68,12 @@ const config: Config = {
   ],
 
   plugins: [
-    [
-      "@docusaurus/plugin-content-docs",
-      {
-        id: "locals",
-        path: "locals",
-        routeBasePath: "locals",
-        sidebarPath: "./sidebars.locals.ts",
-        editUrl: "https://github.com/graphql/handbooks/edit/main/",
-        showLastUpdateAuthor: false,
-        showLastUpdateTime: true,
-      },
-    ],
-    [
-      "@docusaurus/plugin-content-docs",
-      {
-        id: "ambassadors",
-        path: "ambassadors",
-        routeBasePath: "ambassadors",
-        sidebarPath: "./sidebars.ambassadors.ts",
-        editUrl: "https://github.com/graphql/handbooks/edit/main/",
-        showLastUpdateAuthor: false,
-        showLastUpdateTime: true,
-      },
-    ],
-    [
-      "@docusaurus/plugin-content-docs",
-      {
-        id: "social-media",
-        path: "social-media",
-        routeBasePath: "social-media",
-        sidebarPath: "./sidebars.social-media.ts",
-        editUrl: "https://github.com/graphql/handbooks/edit/main/",
-        showLastUpdateAuthor: false,
-        showLastUpdateTime: true,
-      },
-    ],
-    [
-      "@docusaurus/plugin-content-docs",
-      {
-        id: "wg",
-        path: "wg",
-        routeBasePath: "wg",
-        sidebarPath: "./sidebars.wg.ts",
-        editUrl: "https://github.com/graphql/handbooks/edit/main/",
-        showLastUpdateAuthor: false,
-        showLastUpdateTime: true,
-      },
-    ],
-    [
-      "@docusaurus/plugin-content-docs",
-      {
-        id: "tsc",
-        path: "tsc",
-        routeBasePath: "tsc",
-        sidebarPath: "./sidebars.tsc.ts",
-        editUrl: "https://github.com/graphql/handbooks/edit/main/",
-        showLastUpdateAuthor: false,
-        showLastUpdateTime: true,
-      },
-    ],
-    [
-      "@docusaurus/plugin-content-docs",
-      {
-        id: "grants",
-        path: "grants",
-        routeBasePath: "grants",
-        sidebarPath: "./sidebars.grants.ts",
-        editUrl: "https://github.com/graphql/handbooks/edit/main/",
-        showLastUpdateAuthor: false,
-        showLastUpdateTime: true,
-      },
-    ],
+    docs("locals"),
+    docs("ambassadors"),
+    docs("social-media"),
+    docs("wg"),
+    docs("tsc"),
+    docs("grants"),
   ],
 
   themeConfig: {
