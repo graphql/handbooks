@@ -105,3 +105,18 @@ the following to `.vscode/settings.json` to format on save:
 1. Run `yarn format` to fix formatting.
 1. Run `yarn build` to verify the site compiles.
 1. Push your changes and open a pull request, include a description.
+
+## Start a new handbook
+
+1. Create a root level folder with a short name for your handbook
+1. Write your first page of the handbook inside that folder
+1. Add the handbook to `docusaurus.config.ts`:
+   - Add it to `plugins:`
+   - Add it to `themeConfig { navbar { items:[ ]}}` in the place where it should
+     show in the navbar
+1. Duplicate a sidebar file (eg `sidebars.ambassadors.ts`) and rename it to
+   match the new folder name
+1. Add the handbook to `src/pages/index.tsx` by adding a `<Handbook>` component
+   in the existing list
+1. Run `yarn start` and check your new handbook links show and work in the
+   navbar and on the homepage, and the handbook itself works as intended
