@@ -14,7 +14,7 @@ Handbook](https://handbooks.graphql.org/contributing)!
 - `docs/social-media` — Campaign workflows and brand guidelines for the social
   team.
 - `docs/locals` — Launching and scaling local GraphQL communities.
-- `docs/grants-program` — Community grant preparation and reporting.
+- `docs/grants` — Community grant preparation and reporting.
 - `docs/tsc` — Technical Steering Committee processes.
 
 Each page should start with an outline of the target audience for the article,

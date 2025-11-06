@@ -94,7 +94,7 @@ const config: Config = {
         { type: 'doc', docId: 'tsc/overview', label: 'TSC', position: 'left' },
         {
           type: 'doc',
-          docId: 'grants-program/overview',
+          docId: 'grants/overview',
           label: 'Grants',
           position: 'left',
         },

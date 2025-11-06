@@ -49,9 +49,9 @@ const sidebars: SidebarsConfig = {
     'tsc/spec-proposals',
   ],
   grants: [
-    'grants-program/overview',
-    'grants-program/prepare-a-proposal',
-    'grants-program/reporting-and-renewal',
+    'grants/overview',
+    'grants/prepare-a-proposal',
+    'grants/reporting-and-renewal',
   ],
 };
 
