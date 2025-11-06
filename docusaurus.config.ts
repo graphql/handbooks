@@ -69,7 +69,7 @@ const config: Config = {
       items: [
         {
           type: 'doc',
-          docId: 'locals-program/overview',
+          docId: 'locals/overview',
           label: 'Locals',
           position: 'left',
         },

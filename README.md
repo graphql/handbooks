@@ -13,7 +13,7 @@ Handbook](https://handbooks.graphql.org/contributing)!
   GraphQL Ambassadors.
 - `docs/social-media` — Campaign workflows and brand guidelines for the social
   team.
-- `docs/locals-program` — Launching and scaling local GraphQL communities.
+- `docs/locals` — Launching and scaling local GraphQL communities.
 - `docs/grants-program` — Community grant preparation and reporting.
 - `docs/tsc` — Technical Steering Committee processes.
 

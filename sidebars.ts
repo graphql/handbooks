@@ -14,12 +14,12 @@ import type { SidebarsConfig } from '@docusaurus/plugin-content-docs';
  */
 const sidebars: SidebarsConfig = {
   locals: [
-    'locals-program/overview',
-    'locals-program/requirements',
-    'locals-program/things-to-consider',
-    'locals-program/resources',
-    'locals-program/sponsorship',
-    'locals-program/social-media',
+    'locals/overview',
+    'locals/requirements',
+    'locals/things-to-consider',
+    'locals/resources',
+    'locals/sponsorship',
+    'locals/social-media',
   ],
   ambassadors: [
     'ambassadors-program/overview',
