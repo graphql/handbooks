@@ -1,17 +1,17 @@
-import type { ReactNode } from 'react';
-import Heading from '@theme/Heading';
-import styles from './styles.module.css';
+import type { ReactNode } from "react";
+import Heading from "@theme/Heading";
+import styles from "./styles.module.css";
 
 type FeatureItem = {
   title: string;
-  Svg: React.ComponentType<React.ComponentProps<'svg'>>;
+  Svg: React.ComponentType<React.ComponentProps<"svg">>;
   description: ReactNode;
 };
 
 const FeatureList: FeatureItem[] = [
   {
-    title: 'Goal-Oriented Guides',
-    Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
+    title: "Goal-Oriented Guides",
+    Svg: require("@site/static/img/undraw_docusaurus_mountain.svg").default,
     description: (
       <>
         Every handbook is written around outcomes—launching chapters, leading
@@ -21,8 +21,8 @@ const FeatureList: FeatureItem[] = [
     ),
   },
   {
-    title: 'Program-Specific Resources',
-    Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
+    title: "Program-Specific Resources",
+    Svg: require("@site/static/img/undraw_docusaurus_tree.svg").default,
     description: (
       <>
         Access checklists, templates, and communication kits curated for Locals,
@@ -31,8 +31,8 @@ const FeatureList: FeatureItem[] = [
     ),
   },
   {
-    title: 'Connected Community',
-    Svg: require('@site/static/img/undraw_docusaurus_react.svg').default,
+    title: "Connected Community",
+    Svg: require("@site/static/img/undraw_docusaurus_react.svg").default,
     description: (
       <>
         Admonitions highlight optional content and link to adjacent programs so

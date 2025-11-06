@@ -1,5 +1,5 @@
-import type { ReactNode } from 'react';
-import clsx from 'clsx';
+import type { ReactNode } from "react";
+import clsx from "clsx";
 
 type Props = {
   href: string;
@@ -13,7 +13,7 @@ export default function LinkButton({
   containerClassName,
 }: Props) {
   return (
-    <div className={clsx('linkButtonContainer', containerClassName)}>
+    <div className={clsx("linkButtonContainer", containerClassName)}>
       <a className="linkButton" href={href}>
         {children}
       </a>

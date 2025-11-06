@@ -1,4 +1,4 @@
-import type { SidebarsConfig } from '@docusaurus/plugin-content-docs';
+import type { SidebarsConfig } from "@docusaurus/plugin-content-docs";
 
 // This runs in Node.js - Don't use client-side code here (browser APIs, JSX...)
 
@@ -14,44 +14,44 @@ import type { SidebarsConfig } from '@docusaurus/plugin-content-docs';
  */
 const sidebars: SidebarsConfig = {
   locals: [
-    'locals/overview',
-    'locals/requirements',
-    'locals/things-to-consider',
-    'locals/resources',
-    'locals/sponsorship',
-    'locals/social-media',
+    "locals/overview",
+    "locals/requirements",
+    "locals/things-to-consider",
+    "locals/resources",
+    "locals/sponsorship",
+    "locals/social-media",
   ],
   ambassadors: [
-    'ambassadors/overview',
-    'ambassadors/requirements',
-    'ambassadors/tasks',
-    'ambassadors/standards',
-    'ambassadors/application',
-    'ambassadors/foundation',
-    'ambassadors/financial-support',
-    'ambassadors/organizer-overview',
+    "ambassadors/overview",
+    "ambassadors/requirements",
+    "ambassadors/tasks",
+    "ambassadors/standards",
+    "ambassadors/application",
+    "ambassadors/foundation",
+    "ambassadors/financial-support",
+    "ambassadors/organizer-overview",
   ],
-  'social-media': [
-    'social-media/overview',
-    'social-media/campaign-playbook',
-    'social-media/voice-and-visuals',
+  "social-media": [
+    "social-media/overview",
+    "social-media/campaign-playbook",
+    "social-media/voice-and-visuals",
   ],
   wg: [
-    'wg/overview',
-    'wg/join-a-meeting',
-    'wg/facilitation-guide',
-    'wg/async-contributions',
+    "wg/overview",
+    "wg/join-a-meeting",
+    "wg/facilitation-guide",
+    "wg/async-contributions",
   ],
   tsc: [
-    'tsc/overview',
-    'tsc/meeting-prep',
-    'tsc/observer-etiquette',
-    'tsc/spec-proposals',
+    "tsc/overview",
+    "tsc/meeting-prep",
+    "tsc/observer-etiquette",
+    "tsc/spec-proposals",
   ],
   grants: [
-    'grants/overview',
-    'grants/prepare-a-proposal',
-    'grants/reporting-and-renewal',
+    "grants/overview",
+    "grants/prepare-a-proposal",
+    "grants/reporting-and-renewal",
   ],
 };
 

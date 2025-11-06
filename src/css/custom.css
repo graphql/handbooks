@@ -1,10 +1,10 @@
-@import url('https://api.fontshare.com/v2/css?f[]=host-grotesk@300,400,500,600,700,800&f[]=commit-mono@400,500,600&display=swap');
+@import url("https://api.fontshare.com/v2/css?f[]=host-grotesk@300,400,500,600,700,800&f[]=commit-mono@400,500,600&display=swap");
 
 :root {
   --ifm-font-family-base:
-    'Host Grotesk', 'Inter', 'Helvetica Neue', Arial, sans-serif;
+    "Host Grotesk", "Inter", "Helvetica Neue", Arial, sans-serif;
   --ifm-font-family-monospace:
-    'Commit Mono', 'IBM Plex Mono', 'Menlo', monospace;
+    "Commit Mono", "IBM Plex Mono", "Menlo", monospace;
   --ifm-heading-font-family: var(--ifm-font-family-base);
   --ifm-font-weight-semibold: 600;
   --ifm-font-weight-bold: 700;
@@ -43,7 +43,7 @@
   --banner-gradient-end: #e10098;
 }
 
-[data-theme='dark'] {
+[data-theme="dark"] {
   --ifm-color-primary: #e10098;
   --ifm-color-primary-dark: #f74ebb;
   --ifm-color-primary-darker: #df26a0;
@@ -68,11 +68,11 @@ body {
   background-color: var(--ifm-background-color);
   color: #1a0d2d;
   font-feature-settings:
-    'ss01' on,
-    'ss03' on;
+    "ss01" on,
+    "ss03" on;
 }
 
-[data-theme='dark'] body {
+[data-theme="dark"] body {
   color: #f7f3ff;
 }
 
@@ -110,7 +110,7 @@ body {
   padding: 4.5rem 0;
 }
 
-[data-theme='dark'] .hero.hero--primary {
+[data-theme="dark"] .hero.hero--primary {
   background:
     radial-gradient(
       circle at 15% 20%,
@@ -182,9 +182,9 @@ body {
   --ifm-alert-border-color: rgba(255, 196, 79, 0.5);
 }
 
-[data-theme='dark'] .alert--info,
-[data-theme='dark'] .alert--tip,
-[data-theme='dark'] .alert--warning {
+[data-theme="dark"] .alert--info,
+[data-theme="dark"] .alert--tip,
+[data-theme="dark"] .alert--warning {
   --ifm-alert-color: #f7f3ff;
 }
 
@@ -193,7 +193,7 @@ body {
   background-color: rgba(255, 255, 255, 0.85);
 }
 
-[data-theme='dark'] .theme-doc-sidebar-container {
+[data-theme="dark"] .theme-doc-sidebar-container {
   background-color: rgba(26, 17, 36, 0.85);
 }
 
@@ -262,7 +262,7 @@ body {
   outline: 2px solid rgba(255, 255, 255, 0.6);
 }
 
-[data-theme='dark'] .contactButton:focus-visible,
-[data-theme='dark'] .linkButton:focus-visible {
+[data-theme="dark"] .contactButton:focus-visible,
+[data-theme="dark"] .linkButton:focus-visible {
   outline-color: rgba(255, 255, 255, 0.8);
 }
