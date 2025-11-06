@@ -5,7 +5,7 @@ title: Financial Support
 :::info Only need the excellence checklist?
 
 This is an overview for the Ambassador Program organizers, see
-[the Program Overview](./overview.md) for an overview for Ambassadors and
+[the Program Overview](./) for an overview for Ambassadors and
 applicants.
 
 :::
