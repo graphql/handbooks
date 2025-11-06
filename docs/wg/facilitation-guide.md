@@ -1,7 +1,7 @@
 ---
 title: Facilitation Guide
 sidebar_position: 3
-sidebar: working-groups
+sidebar: wg
 ---
 
 TODO

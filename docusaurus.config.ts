@@ -87,7 +87,7 @@ const config: Config = {
         },
         {
           type: 'doc',
-          docId: 'working-groups/overview',
+          docId: 'wg/overview',
           label: 'Working Groups',
           position: 'left',
         },

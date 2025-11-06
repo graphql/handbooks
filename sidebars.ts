@@ -36,11 +36,11 @@ const sidebars: SidebarsConfig = {
     'social-media/campaign-playbook',
     'social-media/voice-and-visuals',
   ],
-  'working-groups': [
-    'working-groups/overview',
-    'working-groups/join-a-meeting',
-    'working-groups/facilitation-guide',
-    'working-groups/async-contributions',
+  wg: [
+    'wg/overview',
+    'wg/join-a-meeting',
+    'wg/facilitation-guide',
+    'wg/async-contributions',
   ],
   tsc: [
     'tsc/overview',
