@@ -40,17 +40,87 @@ const config: Config = {
     [
       "classic",
       {
-        docs: {
-          sidebarPath: "./sidebars.ts",
-          editUrl: "https://github.com/graphql/handbooks/edit/main/",
-          showLastUpdateAuthor: false,
-          showLastUpdateTime: true,
-        },
+        docs: false,
         blog: false,
         theme: {
           customCss: "./src/css/custom.css",
         },
       } satisfies Preset.Options,
+    ],
+  ],
+
+  plugins: [
+    [
+      "@docusaurus/plugin-content-docs",
+      {
+        id: "locals",
+        path: "locals",
+        routeBasePath: "locals",
+        sidebarPath: "./sidebars.locals.ts",
+        editUrl: "https://github.com/graphql/handbooks/edit/main/",
+        showLastUpdateAuthor: false,
+        showLastUpdateTime: true,
+      },
+    ],
+    [
+      "@docusaurus/plugin-content-docs",
+      {
+        id: "ambassadors",
+        path: "ambassadors",
+        routeBasePath: "ambassadors",
+        sidebarPath: "./sidebars.ambassadors.ts",
+        editUrl: "https://github.com/graphql/handbooks/edit/main/",
+        showLastUpdateAuthor: false,
+        showLastUpdateTime: true,
+      },
+    ],
+    [
+      "@docusaurus/plugin-content-docs",
+      {
+        id: "social-media",
+        path: "social-media",
+        routeBasePath: "social-media",
+        sidebarPath: "./sidebars.social-media.ts",
+        editUrl: "https://github.com/graphql/handbooks/edit/main/",
+        showLastUpdateAuthor: false,
+        showLastUpdateTime: true,
+      },
+    ],
+    [
+      "@docusaurus/plugin-content-docs",
+      {
+        id: "wg",
+        path: "wg",
+        routeBasePath: "wg",
+        sidebarPath: "./sidebars.wg.ts",
+        editUrl: "https://github.com/graphql/handbooks/edit/main/",
+        showLastUpdateAuthor: false,
+        showLastUpdateTime: true,
+      },
+    ],
+    [
+      "@docusaurus/plugin-content-docs",
+      {
+        id: "tsc",
+        path: "tsc",
+        routeBasePath: "tsc",
+        sidebarPath: "./sidebars.tsc.ts",
+        editUrl: "https://github.com/graphql/handbooks/edit/main/",
+        showLastUpdateAuthor: false,
+        showLastUpdateTime: true,
+      },
+    ],
+    [
+      "@docusaurus/plugin-content-docs",
+      {
+        id: "grants",
+        path: "grants",
+        routeBasePath: "grants",
+        sidebarPath: "./sidebars.grants.ts",
+        editUrl: "https://github.com/graphql/handbooks/edit/main/",
+        showLastUpdateAuthor: false,
+        showLastUpdateTime: true,
+      },
     ],
   ],
 
@@ -69,32 +139,43 @@ const config: Config = {
       items: [
         {
           type: "doc",
-          docId: "locals/overview",
+          docId: "index",
+          docsPluginId: "locals",
           label: "Locals",
           position: "left",
         },
         {
           type: "doc",
-          docId: "ambassadors/overview",
+          docId: "index",
+          docsPluginId: "ambassadors",
           label: "Ambassadors",
           position: "left",
         },
         {
           type: "doc",
-          docId: "social-media/overview",
+          docId: "index",
+          docsPluginId: "social-media",
           label: "Social Media",
           position: "left",
         },
         {
           type: "doc",
-          docId: "wg/overview",
+          docId: "index",
+          docsPluginId: "wg",
           label: "Working Groups",
           position: "left",
         },
-        { type: "doc", docId: "tsc/overview", label: "TSC", position: "left" },
         {
           type: "doc",
-          docId: "grants/overview",
+          docId: "index",
+          docsPluginId: "tsc",
+          label: "TSC",
+          position: "left",
+        },
+        {
+          type: "doc",
+          docId: "index",
+          docsPluginId: "grants",
           label: "Grants",
           position: "left",
         },
