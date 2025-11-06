@@ -1,9 +1,8 @@
-import type { ReactNode } from "react";
+import type { JSX, ReactNode } from "react";
 import clsx from "clsx";
 import Link from "@docusaurus/Link";
 import useDocusaurusContext from "@docusaurus/useDocusaurusContext";
 import Layout from "@theme/Layout";
-import HomepageFeatures from "@site/src/components/HomepageFeatures";
 import Heading from "@theme/Heading";
 
 import styles from "./index.module.css";
@@ -11,19 +10,38 @@ import styles from "./index.module.css";
 function HomepageHeader() {
   const { siteConfig } = useDocusaurusContext();
   return (
-    <header className={clsx("hero hero--primary", styles.heroBanner)}>
+    <header className={styles.heroBanner}>
       <div className="container">
         <Heading as="h1" className="hero__title">
           {siteConfig.title}
         </Heading>
-        <p className="hero__subtitle">{siteConfig.tagline}</p>
-        <div className={styles.buttons}>
-          <Link className="button button--secondary button--lg" to="/locals/">
-            Explore the handbooks
-          </Link>
-        </div>
+        <Heading as="h2" className="hero__subtitle">
+          Community-maintained documentation and guides for GraphQL Foundation
+          processes and programs.
+        </Heading>
       </div>
     </header>
+  );
+}
+
+function Handbook(props: {
+  title: string;
+  url: string;
+  linkText?: string;
+  children: JSX.Element;
+}) {
+  const { title, url, linkText, children } = props;
+  return (
+    <div className={styles.handbookCard}>
+      <Heading as="h2">{title}</Heading>
+      {children}
+      <div className={styles.flexSpace} />
+      <p className={styles.handbookLinkContainer}>
+        <Link className="button button--secondary button--lg" to={url}>
+          {linkText ?? `${title} Handbook`}
+        </Link>
+      </p>
+    </div>
   );
 }
 
@@ -39,48 +57,35 @@ export default function Home(): ReactNode {
         <section className={styles.overviewSection}>
           <div className="container">
             <div className={styles.overviewGrid}>
-              <div>
-                <Heading as="h2">Welcome</Heading>
+              <Handbook title="Working Groups" url="/wg">
                 <p>
-                  Community-maintained reference and guides for various GraphQL
-                  Foundation processes and programs.
+                  The GraphQL Working Groups are the primary way advancements
+                  are made on the GraphQL specification and related Foundation
+                  projects. Find out more about attending and running working
+                  groups.
                 </p>
-              </div>
-              <div className={styles.guidelinesCard}>
-                <Heading as="h3">How to Use These Handbooks</Heading>
-                <ul className={styles.guidelinesList}>
-                  <li>
-                    <strong>Start with your goal.</strong> Each page is
-                    structured around the key milestones you are trying to hit
-                    and the responsibilities tied to them.
-                  </li>
-                  <li>
-                    <strong>Follow the checklists.</strong> Step-by-step lists
-                    help you move quickly while staying aligned with Foundation
-                    standards.
-                  </li>
-                  <li>
-                    <strong>Share feedback.</strong> Improvements are welcome.
-                    Open a pull request or reach out in the relevant working
-                    group to propose updates.
-                  </li>
-                </ul>
-              </div>
+              </Handbook>
+              <Handbook title="GraphQL Locals" url="/locals">
+                <p>
+                  Local GraphQL communities can get support from the GraphQL
+                  Foundation to help promote and run their events under the
+                  GraphQL Locals Initiative.
+                </p>
+              </Handbook>
+              <Handbook title="GraphQL Ambassadors" url="/ambassadors">
+                <p>
+                  GraphQL Ambassadors are trusted go-to community leaders driven
+                  by a passion for GraphQL projects and strive to nurture the
+                  growing GraphQL community through collaboration, education and
+                  outreach.
+                </p>
+              </Handbook>
             </div>
             <div className={styles.programsCard}>
-              <Heading as="h3">Programs Covered</Heading>
-              <div className={styles.programList}>
-                <span>Locals Program</span>
-                <span>Ambassadors Program</span>
-                <span>Social Media Team</span>
-                <span>Working Groups</span>
-                <span>Technical Steering Committee (TSC)</span>
-                <span>Grants Program</span>
-              </div>
-              <p className={styles.overviewNote}>
-                Looking for guidance that is not yet documented? Let the
-                Foundation staff know so we can expand these handbooks.
-              </p>
+              💡 Looking for guidance that is not yet documented?{" "}
+              <a href="https://github.com/graphql/handbooks/issues/new?template=BLANK_ISSUE">
+                Raise an issue!
+              </a>
             </div>
           </div>
         </section>

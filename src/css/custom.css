@@ -91,58 +91,6 @@ body {
   color: var(--ifm-color-primary);
 }
 
-.hero.hero--primary {
-  background:
-    radial-gradient(
-      circle at 15% 20%,
-      rgba(225, 0, 152, 0.28),
-      transparent 60%
-    ),
-    linear-gradient(
-      135deg,
-      var(--banner-gradient-start),
-      #2b0c45 35%,
-      var(--banner-gradient-end)
-    );
-  color: #ffffff;
-  border-radius: 24px;
-  margin: 2rem auto;
-  padding: 4.5rem 0;
-}
-
-[data-theme="dark"] .hero.hero--primary {
-  background:
-    radial-gradient(
-      circle at 15% 20%,
-      rgba(225, 0, 152, 0.28),
-      transparent 60%
-    ),
-    linear-gradient(135deg, #07030f, #1d0834 40%, #b00075);
-}
-
-.hero__title {
-  font-size: clamp(2.75rem, 5vw, 3.5rem);
-  font-weight: 700;
-  letter-spacing: -0.02em;
-}
-
-.hero__subtitle {
-  max-width: 42rem;
-  margin: 1.5rem auto 0;
-  font-size: 1.15rem;
-  color: rgba(255, 255, 255, 0.9);
-}
-
-.hero .button {
-  transition:
-    transform 0.2s ease,
-    box-shadow 0.2s ease;
-}
-
-.hero .button:hover {
-  transform: translateY(-2px);
-}
-
 .main-wrapper .container {
   max-width: 1100px;
 }

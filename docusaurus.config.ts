@@ -25,7 +25,7 @@ function docs(path: string): PluginConfig {
 const config: Config = {
   title: "GraphQL Foundation Handbooks",
   tagline:
-    "Documentation and guides for GraphQL Foundation processes and programs",
+    "Community-maintained documentation and guides for GraphQL Foundation processes and programs",
   favicon: "img/favicon.ico",
 
   // Future flags, see https://docusaurus.io/docs/api/docusaurus-config#future

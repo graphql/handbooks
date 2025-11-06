@@ -4,15 +4,18 @@
  */
 
 .heroBanner {
-  padding: 4rem 0;
+  padding: 4rem 2rem 2rem;
   text-align: center;
   position: relative;
   overflow: hidden;
+  :global(.container) {
+    max-width: 52rem;
+  }
 }
 
 @media screen and (max-width: 996px) {
   .heroBanner {
-    padding: 2rem;
+    padding: 2rem 1rem 1rem;
   }
 }
 
@@ -29,9 +32,25 @@
 .overviewGrid {
   display: grid;
   gap: 2rem;
-  grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+  grid-template-columns: repeat(auto-fit, minmax(22rem, 1fr));
   margin-bottom: 2.5rem;
   align-items: start;
+}
+
+.handbookCard {
+  display: flex;
+  height: 100%;
+  flex-direction: column;
+  border: 2px solid #e10098;
+  border-radius: 15px;
+  padding: 1rem;
+}
+.flexSpace {
+  flex-grow: 1;
+}
+
+.handbookLinkContainer {
+  text-align: center;
 }
 
 .guidelinesCard {
@@ -72,6 +91,7 @@
   border: 1px solid rgba(17, 6, 39, 0.08);
   padding: 2.5rem 2rem 2.25rem;
   box-shadow: 0 18px 40px rgba(17, 6, 39, 0.12);
+  text-align: center;
 }
 
 [data-theme="dark"] .programsCard {
