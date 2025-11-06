@@ -6,8 +6,8 @@ sidebar: ambassadors
 :::info Only need the excellence checklist?
 
 This is an overview for the Ambassador Program organizers, see
-[the Program Overview](./program-overview.mdx) for an overview for Ambassadors
-and applicants.
+[the Program Overview](./overview.md) for an overview for Ambassadors and
+applicants.
 
 :::
 
