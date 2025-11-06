@@ -9,7 +9,7 @@ Handbook](https://handbooks.graphql.org/contributing)!
 
 - `docs/contributing` — Contributing to GraphQL Foundation projects via GitHub.
 - `docs/wg` — Meeting participation and facilitation guides.
-- `docs/ambassadors-program` — Expectations, enablement, and standards for
+- `docs/ambassadors` — Expectations, enablement, and standards for
   GraphQL Ambassadors.
 - `docs/social-media` — Campaign workflows and brand guidelines for the social
   team.
