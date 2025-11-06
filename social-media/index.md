@@ -1,60 +1,82 @@
 ---
-title: Program Overview
+title: Social Media and Networks
 sidebar_position: 1
 ---
 
-TODO
+GraphQL has many social media and social network presences:
 
-<!-- This was AI generated
+## Twitter / X
 
-:::tip Only launching a campaign?
+https://twitter.com/graphql
 
-Head directly to [Campaign Playbook](./campaign-playbook.md) for brief-by-brief
-guidance.
+Posts are drafted and scheduled through Typefully.com, see below.
 
-:::
+If the pinned tweet or header image needs updating, reach out to Benjie
 
-The Social Media Team amplifies the work of the GraphQL community, drives
-awareness of Foundation initiatives, and protects the brand’s tone across
-platforms.
+## Bluesky
 
-## Strategic Objectives
+https://bsky.app/profile/graphql.org
 
-- **Celebrate the community.** Feature case studies, contributor milestones, and
-  local chapter highlights.
-- **Educate practitioners.** Share tutorials, RFC updates, and links to new
-  documentation.
-- **Promote events.** Boost attendance for working group meetings, summits, and
-  regional meetups.
-- **Protect the brand.** Respond to questions with empathy, correct
-  misinformation, and enforce the code of conduct.
+Posts are drafted and scheduled through Typefully.com, see below.
 
-## Team Roles
+If the pinned message or header image needs updating, reach out to Benjie
 
-- **Content Lead:** Crafts the editorial calendar, approves copy, and aligns
-  with Foundation priorities.
-- **Channel Managers:** Execute platform-specific posts (Twitter/X, LinkedIn,
-  YouTube, TikTok).
-- **Design Partner:** Maintains visual templates, prepares motion assets, and
-  ensures accessibility.
-- **Community Stewards:** Monitor mentions, escalate issues, and capture
-  community success stories.
+## LinkedIn
 
-## Weekly Rhythm
+https://www.linkedin.com/company/graphql-foundation/
 
-- Monday: Review analytics and update the shared dashboard.
-- Tuesday: Finalize copy and creatives for the following week.
-- Wednesday: Publish long-form content such as blog amplification or YouTube
-  releases.
-- Thursday: Spotlight community contributions or ambassador content.
-- Friday: Run engagement rounds—reply to comments, reshare working group recaps,
-  answer questions.
+Posts are drafted and scheduled through Typefully.com, see below.
 
-## Tooling Stack
+If any of the main page elements need updating, reach out to Benjie
 
-- Notion or Airtable for the content calendar and asset library.
-- Figma for templates and platform-specific exports.
-- Native scheduling or Buffer/Hootsuite for time-zone coverage.
-- Sprout Social or Typefully for analytics and listening.
+## YouTube
 
--->
+We have two main channels:
+
+- https://youtube.com/@GraphQLTV - for conference and locals talks (primary
+  channel)
+- https://youtube.com/@GraphQLFoundationFR - for conference and locals talks in
+  French
+- https://youtube.com/@GraphQLFoundation - for working group meeting Zoom
+  recordings
+
+Should you need access to these channels, reach out to Benjie
+
+## Discord
+
+Join our discord at: https://discord.graphql.org
+
+Need help? Post in #tech-help if there isn't a channel dedicated to your tech
+stack. Be sure to include details of the software you're using!
+
+Spam? Ping `@Moderator`
+
+Need elevated access? Post in #moderation-etc
+
+Want a new channel for your OSS project? Post in #moderation-etc
+
+Want to help moderate? Post in #moderation-etc
+
+## Reddit
+
+https://reddit.com/r/graphql
+
+## Typefully.com
+
+https://typefully.com/GraphQL
+
+Our social media posts to Twitter, BlueSky and LinkedIn are scheduled via
+Typefully, to allow many people to post. The following groups of people can
+request access to Typefully:
+
+- GraphQL Foundation Board members
+- GraphQL TSC members
+- GraphQL Ambassadors
+- GraphQL Locals organizers
+- GraphQL conference committee members
+- GraphQL content committee members
+
+Step 1: Create an account at typefully.com
+
+Step 2: Send us your account details (username or email) and detail why you're
+requesting access.

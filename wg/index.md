@@ -1,11 +1,7 @@
 ---
-title: Overview & Goals
+title: Working Groups Overview
 sidebar_position: 1
 ---
-
-TODO
-
-<!-- This was AI generated
 
 :::tip Only need joining instructions?
 
@@ -33,28 +29,24 @@ Meetings are typically held monthly and are open to observers.
 
 - Working groups operate under the oversight of the Technical Steering Committee
   (TSC).
-- Agendas, notes, and recordings are posted publicly in the GitHub repositories
-  linked from the
-  [Project Meetings hub](https://graphql.org/community/contribute/project-meetings/).
+- Agendas, notes, and recordings are posted publicly in the GitHub repository
+  for the relevant working group.
 - Decisions strive for consensus. When consensus cannot be reached, proposals
   may escalate to the TSC.
 
 ## Working Group Types
 
-- **General WG:** Covers cross-cutting topics and specification updates.
-- **Subprojects:** Focus on specific parts of the ecosystem (e.g., GraphiQL,
-  GraphQL over HTTP, Security WG).
-- **Task Forces:** Time-bound groups tackling a single issue, such as a spec
-  revision or event planning effort.
+- **Primary WG:** Covers cross-cutting topics and specification updates.
+- **Subproject WGs:** Focus on specific parts of the ecosystem (e.g., GraphQL.js
+  WG, GraphiQL WG, GraphQL over HTTP WG, Composite Schemas WG).
+- **Breakout WGs:** Groups tackling a single complex issue to be reincorporated
+  upstream at a later date (e.g. Nullability WG, Incremental Delivery WG).
 
 ## Participant Roles
 
-- **Chairs:** Build agendas, facilitate discussions, and ensure follow-up items
+- **Chair:** Maintain agenda, facilitate discussions, and ensure follow-up items
   are tracked.
-- **Editors:** Maintain the official specs and track normative changes.
-- **Implementers:** Share insights from runtimes, tooling, and large
-  deployments.
-- **Observers:** Listen in, learn the process, and may comment through GitHub
-  issues or chat.
-
--->
+- **Editor:** Maintain the official specs and track normative changes.
+- **Implementer:** Share insights from runtimes, tooling, and large deployments.
+- **Observer:** Listen in, learn the process, and may comment through GitHub
+  issues or Discord chat.
