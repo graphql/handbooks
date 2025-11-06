@@ -1,11 +1,11 @@
-import type { JSX, ReactNode } from 'react';
-import clsx from 'clsx';
-import Link from '@docusaurus/Link';
-import useDocusaurusContext from '@docusaurus/useDocusaurusContext';
-import Layout from '@theme/Layout';
-import Heading from '@theme/Heading';
+import type { JSX, ReactNode } from "react";
+import clsx from "clsx";
+import Link from "@docusaurus/Link";
+import useDocusaurusContext from "@docusaurus/useDocusaurusContext";
+import Layout from "@theme/Layout";
+import Heading from "@theme/Heading";
 
-import styles from './index.module.css';
+import styles from "./index.module.css";
 
 function HomepageHeader() {
   const { siteConfig } = useDocusaurusContext();
@@ -126,7 +126,7 @@ export default function Home(): ReactNode {
               </Handbook>
             </div>
             <div className={styles.programsCard}>
-              💡 Looking for guidance that is not yet documented?{' '}
+              💡 Looking for guidance that is not yet documented?{" "}
               <a href="https://github.com/graphql/handbooks/issues/new?template=BLANK_ISSUE">
                 Raise an issue!
               </a>
