@@ -5,8 +5,8 @@ sidebar_position: 3
 
 :::info First-time applicant?
 
-Review [Program Overview](./) to ensure your project aligns before
-preparing reports.
+Review [Program Overview](./) to ensure your project aligns before preparing
+reports.
 
 :::
 
