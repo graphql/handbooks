@@ -4,6 +4,10 @@ sidebar_position: 2
 sidebar: tsc
 ---
 
+TODO
+
+<!-- This was AI generated
+
 :::warning No agenda item?
 
 If you are attending as an observer without a topic, review
@@ -50,3 +54,5 @@ additional expectations for decision-making.
 - Provide public notes or blog posts for community visibility when appropriate.
 - Follow up on assigned actions ahead of the next meeting and flag blockers
   early.
+
+-->

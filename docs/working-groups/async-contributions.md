@@ -4,6 +4,10 @@ sidebar_position: 4
 sidebar: working-groups
 ---
 
+TODO
+
+<!-- This was AI generated
+
 :::info Prefer specs work?
 
 If you are contributing to the GraphQL specification directly, check the
@@ -47,3 +51,5 @@ asynchronous channels to stay involved between sessions.
   highlights.
 - Track open action items assigned to you and update status ahead of the next
   meeting.
+
+-->

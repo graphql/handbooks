@@ -4,6 +4,10 @@ sidebar_position: 3
 sidebar: tsc
 ---
 
+TODO
+
+<!-- This was AI generated
+
 :::info Presenting soon?
 
 Review [Prepare for a TSC Meeting](./meeting-prep.md) if you will be requesting
@@ -46,3 +50,5 @@ asynchronously. Follow these guidelines to keep sessions running smoothly.
   chair.
 - Do not share screenshots, recordings, or quotes outside the official notes
   without explicit permission.
+
+-->

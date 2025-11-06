@@ -4,6 +4,10 @@ sidebar_position: 4
 sidebar: tsc
 ---
 
+TODO
+
+<!-- This was AI generated
+
 :::warning Only need the template?
 
 Scroll down to [Proposal Packet](#proposal-packet) for the files you must
@@ -55,3 +59,5 @@ Prepare the following materials before the TSC review:
 - Coordinate documentation updates across graphql.org and related repos.
 - Announce the change through blog posts, working group updates, and social
   channels.
+
+-->

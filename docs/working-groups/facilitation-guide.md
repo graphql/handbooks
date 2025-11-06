@@ -4,6 +4,10 @@ sidebar_position: 3
 sidebar: working-groups
 ---
 
+TODO
+
+<!-- This was AI generated
+
 :::tip Only need agenda templates?
 
 Jump down to [Templates](#templates) if you already have facilitation experience
@@ -56,3 +60,5 @@ outcome-driven.
   inclusion.
 - Rotate facilitation or co-chairing to build capacity in the community.
 - Share learnings with other working groups via the WGs coordination channel.
+
+-->

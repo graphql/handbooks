@@ -45,11 +45,8 @@ export default function Home(): ReactNode {
               <div>
                 <Heading as="h2">Welcome</Heading>
                 <p>
-                  This site gathers handbooks for the programs run by the
-                  GraphQL Foundation. Each section focuses on the outcomes you
-                  are trying to achieve—whether you are launching a local
-                  gathering, preparing for a new working group, or joining the
-                  Social Media team.
+                  Community-maintained reference and guides for various GraphQL
+                  Foundation processes and programs.
                 </p>
               </div>
               <div className={styles.guidelinesCard}>

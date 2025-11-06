@@ -4,6 +4,10 @@ sidebar_position: 1
 sidebar: tsc
 ---
 
+TODO
+
+<!-- This was AI generated
+
 :::tip Just need meeting logistics?
 
 Skip to [Prepare for a TSC Meeting](./meeting-prep.md) for week-of checklists.
@@ -49,3 +53,5 @@ mandate and membership are documented in the
   initiatives arise.
 - Minutes from TSC meetings are shared back with the broader community to ensure
   transparency.
+
+-->

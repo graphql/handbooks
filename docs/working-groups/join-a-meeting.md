@@ -4,6 +4,10 @@ sidebar_position: 2
 sidebar: working-groups
 ---
 
+TODO
+
+<!-- This was AI generated
+
 :::info Already on the calendar?
 
 If you are confirmed for an upcoming session, skip ahead to
@@ -62,3 +66,5 @@ participation guidelines and code of conduct.
 - Follow up with GitHub issues or PRs within one week.
 - Share outcomes with your local community or working team to keep everyone
   aligned.
+
+-->
