@@ -2709,6 +2709,25 @@ __metadata:
   languageName: node
   linkType: hard
 
+"@graphql/handbooks@workspace:.":
+  version: 0.0.0-use.local
+  resolution: "@graphql/handbooks@workspace:."
+  dependencies:
+    "@docusaurus/core": "npm:3.9.2"
+    "@docusaurus/module-type-aliases": "npm:3.9.2"
+    "@docusaurus/preset-classic": "npm:3.9.2"
+    "@docusaurus/tsconfig": "npm:3.9.2"
+    "@docusaurus/types": "npm:3.9.2"
+    "@mdx-js/react": "npm:^3.0.0"
+    clsx: "npm:^2.0.0"
+    prettier: "npm:^3.6.2"
+    prism-react-renderer: "npm:^2.3.0"
+    react: "npm:^19.0.0"
+    react-dom: "npm:^19.0.0"
+    typescript: "npm:~5.6.2"
+  languageName: unknown
+  linkType: soft
+
 "@hapi/hoek@npm:^9.0.0, @hapi/hoek@npm:^9.3.0":
   version: 9.3.0
   resolution: "@hapi/hoek@npm:9.3.0"
@@ -6505,25 +6524,6 @@ __metadata:
   checksum: 10/bf152d0ed1dc159239db1ba1f74fdbc40cb02f626770dcd5815c427ce0688c2635a06ed69af364396da4636d0408fcf7d4afdf7881724c3307e46aff30ca49e2
   languageName: node
   linkType: hard
-
-"graphql-handbooks@workspace:.":
-  version: 0.0.0-use.local
-  resolution: "graphql-handbooks@workspace:."
-  dependencies:
-    "@docusaurus/core": "npm:3.9.2"
-    "@docusaurus/module-type-aliases": "npm:3.9.2"
-    "@docusaurus/preset-classic": "npm:3.9.2"
-    "@docusaurus/tsconfig": "npm:3.9.2"
-    "@docusaurus/types": "npm:3.9.2"
-    "@mdx-js/react": "npm:^3.0.0"
-    clsx: "npm:^2.0.0"
-    prettier: "npm:^3.6.2"
-    prism-react-renderer: "npm:^2.3.0"
-    react: "npm:^19.0.0"
-    react-dom: "npm:^19.0.0"
-    typescript: "npm:~5.6.2"
-  languageName: unknown
-  linkType: soft
 
 "gray-matter@npm:^4.0.3":
   version: 4.0.3
