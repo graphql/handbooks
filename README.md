@@ -2,15 +2,15 @@
 
 This repository contains community-maintained documentation and guides for
 various GraphQL Foundation processes and programs. Contributions are very
-welcome, and should follow the [Contributing
-Handbook](https://handbooks.graphql.org/contributing)!
+welcome, and should follow the
+[Contributing Handbook](https://handbooks.graphql.org/contributing)!
 
 ## Structure
 
 - `docs/contributing` — Contributing to GraphQL Foundation projects via GitHub.
 - `docs/wg` — Meeting participation and facilitation guides.
-- `docs/ambassadors` — Expectations, enablement, and standards for
-  GraphQL Ambassadors.
+- `docs/ambassadors` — Expectations, enablement, and standards for GraphQL
+  Ambassadors.
 - `docs/social-media` — Campaign workflows and brand guidelines for the social
   team.
 - `docs/locals` — Launching and scaling local GraphQL communities.
@@ -24,7 +24,8 @@ enabling readers to skip articles that do not match their current goals.
 
 1. Ensure you have Node.js 22+ installed (e.g. with `nvm install 22`)
 2. Ensure you have `yarn` installed (e.g. with `npm install -g yarn`)
-3. Check out the repository (e.g. with `git checkout https://github.com/graphql/handbooks`)
+3. Check out the repository (e.g. with
+   `git checkout https://github.com/graphql/handbooks`)
 4. Change into that repository (e.g. `cd handbooks`)
 5. Install the dependencies with `yarn`
 
