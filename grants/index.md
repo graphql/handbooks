@@ -3,51 +3,39 @@ title: Grants Overview
 sidebar_position: 1
 ---
 
-The Community Grants Program funds initiatives that expand the GraphQL
-ecosystem—events, educational resources, tooling improvements, and research. The
-program prioritizes proposals that demonstrate broad community impact and
-sustainability.
+The GraphQL Community Grant program is funded by the GraphQL Foundation and
+administered by the [GraphQL Technical Steering Committee (TSC)][tsc]. The goal
+of the program is to provide financial support and incentives for key technical
+and community initiatives within the GraphQL Foundation's projects.
 
-## Funding Goals
+The GraphQL Community Grant program accepts applications at any time and reviews
+them at least twice per year. Grant applications are reviewed by the TSC based
+upon funding that is received as membership dues for the GraphQL Foundation.
+This is one way in which the GraphQL Foundation directly supports the ongoing
+health of the GraphQL developer ecosystem.
 
-- **Accelerate adoption:** Help developers and companies succeed with GraphQL in
-  production.
-- **Grow contributors:** Create pathways for new maintainers, writers,
-  designers, and advocates.
-- **Improve equity:** Support projects that make the community more inclusive
-  and globally representative.
-- **Unlock innovation:** Encourage experimentation with protocols, tooling, and
-  integrations.
+We encourage you to be creative in your grant application, and propose tasks
+that are straightforward to articulate, achievable in three months, and bounded
+in scope.
 
-## Grant Types
+Examples include:
 
-- **Event Sponsorships:** Support for meetups, conferences, hackathons, or
-  workshops aligned with Foundation priorities.
-- **Content & Education:** Funding for curriculum, documentation, video series,
-  or translation initiatives.
-- **Tooling & Research:** Resources for open-source libraries, interoperability
-  testing, or case studies.
+- Finishing an outstanding RFC task that has been untended
+- Getting a major pull request to a Foundation project ready to be merged
+- Community advocacy, such as writing a deep-dive blog documenting a specific
+  feature, writing a whitepaper, or developing newcomer onboarding guides and
+  materials
+- Maintaining projects or infrastructure hosted in GraphQL repositories
+- Other user experience improvement ideas for the [graphql.org][] website and/or
+  [github.com/graphql][]
 
-## Eligibility
+We are not funding work on projects outside https://github.com/graphql/ at this
+time.
 
-- Applicants must adhere to the GraphQL Foundation Code of Conduct.
-- Projects should have a public-facing output and clearly defined success
-  metrics.
-- Fiscal sponsors or legal entities may be required for certain funding levels.
-- Returning grantees must have submitted all previous reports before applying
-  again.
-
-## Decision Criteria
-
-- Alignment with Foundation strategy and current focus areas.
-- Demonstrated need and potential for lasting impact.
-- Feasibility of execution within the proposed timeline and budget.
-- Plan for sharing outcomes with the broader community.
-
-## Review Cadence
-
-- Applications are reviewed on a rolling basis with quarterly allocation
-  meetings.
-- Expect initial feedback within four weeks of submission.
-- The Foundation may request revisions or additional documentation before
-  issuing a contract.
+[tsc]: https://github.com/graphql/graphql-wg/blob/main/GraphQL-TSC.md
+[graphql.org]: https://graphql.org
+[github.com/graphql]: https://github.com/graphql
+[operations@graphql.org]: mailto:operations@graphql.org
+[agreement-preview]: https://grantee-agreement-preview.graphql.org
+[application-form]:
+  https://docs.google.com/forms/d/e/1FAIpQLSciopqGoQE2hBhxsb5E6dq12VrD221Zv4dsGWa1nQM35FT1nA/viewform?usp=sf_link
