@@ -126,10 +126,21 @@ export default function Home(): ReactNode {
               </Handbook>
             </div>
             <div className={styles.programsCard}>
-              💡 Looking for guidance that is not yet documented?{" "}
-              <a href="https://github.com/graphql/handbooks/issues/new?template=BLANK_ISSUE">
-                Raise an issue!
-              </a>
+              <h3>💡 Community-maintained </h3>
+              <p>
+                This website may have inaccuracies and missing information.
+                <br />
+                It is community-contributed guidance, not strict policies.
+                <br /> For canonical information, please see the GraphQL
+                Foundation website at{" "}
+                <a href="https://graphql.org">graphql.org</a>.
+              </p>
+              <p>
+                Looking for guidance that is not yet documented?{" "}
+                <a href="https://github.com/graphql/handbooks/issues/new?template=BLANK_ISSUE">
+                  Raise an issue!
+                </a>
+              </p>
             </div>
           </div>
         </section>

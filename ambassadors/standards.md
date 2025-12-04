@@ -5,7 +5,7 @@ title: Standards of Excellence
 :::note How to become an Ambassador
 
 Read and agree to the Ambassador Standards of Excellence, and then
-[find out how to apply]()
+[find out how to apply](/ambassadors/application).
 
 :::
 
