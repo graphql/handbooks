@@ -131,4 +131,4 @@ advise you on the best way forward for further grants.
 
 [application-form]:
   https://docs.google.com/forms/d/e/1FAIpQLSciopqGoQE2hBhxsb5E6dq12VrD221Zv4dsGWa1nQM35FT1nA/viewform?usp=sf_link
-[ambassador program]: ../ambassadors/index.md
+[ambassador program]: ../ambassadors
