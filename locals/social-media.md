@@ -3,11 +3,8 @@ title: Social Media
 sidebar_position: 5
 ---
 
-GraphQL has a number of social channels:
-
-- https://bsky.app/profile/graphql.org
-- https://www.linkedin.com/company/graphql-foundation
-- https://x.com/graphql
+GraphQL has a number of social channels; see
+[the Social Media handbook](/social-media) for details.
 
 ## Typefully
 
