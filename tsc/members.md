@@ -21,7 +21,7 @@ The current members of the GraphQL TSC are (in chair, name order):
 
 ## Emeriti
 
-We thank all our prior TSC members for their contribution (in time order):
+We thank all our prior TSC members for their work (in time order):
 
 | Name                                               | Affiliation   | Term began  | Term ended   |
 | -------------------------------------------------- | ------------- | ----------- | ------------ |

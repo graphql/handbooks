@@ -27,9 +27,9 @@ can try and help you find relevant sponsors.
 
 ### Caveats
 
-The sponsorship program works internationally in most countries, but there are
-some restrictions placed by US law, international law, and payment providers. If
-you are based outside of the USA it might take longer than we would like to get
-you set up in the system but we aim to keep you well informed. If it's not
+The sponsorship program works in most countries around the world, but there are
+some restrictions placed by US law, international law, and payment providers.
+If you are based outside of the USA it might take longer than we would like to
+get you set up in the system but we aim to keep you well informed. If it's not
 possible for the Foundation to sponsor your events we hope to be able to put you
 in contact with local sponsors who can.

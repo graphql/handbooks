@@ -55,9 +55,9 @@ outcome-driven.
 
 ## Continuous Improvement
 
-- Collect feedback quarterly from participants on pacing, clarity, and
+- Collect feedback quarterly from people who attend on pacing, clarity, and
   inclusion.
 - Rotate facilitation or co-chairing to build capacity in the community.
-- Share learnings with other working groups via the WGs coordination channel.
+- Share learnings with other working groups via the WGs shared channel.
 
 -->

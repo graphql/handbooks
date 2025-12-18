@@ -11,7 +11,7 @@ program which is truly impactful and supportive.
 
 GraphQL Ambassadors are trusted go-to community leaders driven by a passion for
 GraphQL projects and strive to nurture the growing GraphQL community through
-collaboration, education and outreach.
+working together, education and outreach.
 
 ## Ambassador Program Goals
 
@@ -23,8 +23,8 @@ aims to accomplish this through:
   from known corporate brands) as Ambassadors
 - **Increased GraphQL content** online and off
 - **Community building** - increasing the number of “known faces” within
-  GraphQL, increased approachability and a welcoming environment to spread
-  knowledge about GraphQL
+  GraphQL, making the community feel friendly and welcoming to share knowledge
+  about GraphQL
 - **Community feedback** - both on GraphQL initiatives and Specification RFCs
 
 ## Ambassador Benefits

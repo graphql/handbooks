@@ -5,11 +5,12 @@ title: Standards of Excellence
 While the wider GraphQL community abides by the
 [contributor covenant code of conduct](https://graphql.org/codeofconduct/), a
 stronger set of standards is used for the Ambassador Program. This is because
-the Foundation endorses Ambassadors as representatives and leaders; the
-Standards of Excellence are designed to provide a set of guidelines and best
-practices for engaging with the GraphQL Foundation and broader community. This
-makes it easier for Ambassadors to contribute to a positive culture by providing
-clarity around what and how we create a safe and collaborative environment.
+the Foundation endorses Ambassadors as people who represent the community and
+as leaders; the Standards of Excellence are designed to provide a set of
+guidelines and best practices for engaging with the GraphQL Foundation and
+broader community. This makes it easier for Ambassadors to contribute to a
+positive culture by providing clarity around what and how we create a safe and
+collaborative environment.
 
 ## Scope
 
@@ -27,10 +28,9 @@ policies, rules, or guidelines.
 
 - Be kind to others.
 - Promote a friendly atmosphere where people feel comfortable asking questions,
-  participating in discussions, and making contributions.
-- Show gratitude and appreciation for others. Look for opportunities to say
-  “thank you” and recognize people when they are being helpful or making
-  contributions.
+  taking part in discussions, and making contributions.
+- Show gratitude for others. Look for opportunities to say “thank you” and
+  recognize people when they are being helpful or making contributions.
 - Make a conscious effort to welcome and be inclusive of newcomers and people
   who are different from you.
 - Show empathy, care, and concern for others’ feelings, perspectives, and
@@ -53,7 +53,7 @@ behavior. As a GraphQL Ambassador, you are expected to:
 - Respond to differences of opinion in a respectful manner.
 - Make a conscious effort to understand other people’s perspectives and learn
   the facts before you publicly take a stand on any highly controversial issue.
-- Seek to resolve conflict and disagreement in a respectful and collaborative
+- Seek to resolve conflict and differences in a respectful and collaborative
   manner and encourage others to do the same.
 
 ## Promote and Enhance the GraphQL Brand
@@ -66,7 +66,7 @@ for improvement, and discussing potential challenges. However, always express
 yourself in a manner that is respectful and professional, and strive to also be
 tactful and sensitive to how your words may impact others. See the “Be Graceful
 With Feedback” section below for suggestions on how to deliver feedback
-constructively and kindly.
+in a helpful and kind way.
 
 As a GraphQL Ambassador, your actions can reflect either positively or poorly on
 the GraphQL community, Foundation, and brand. Therefore, engaging in activity
@@ -77,7 +77,7 @@ Ambassador Program.
 
 ## Don’t use GraphQL community spaces or your role as an Ambassador to promote political causes
 
-Your role as a GraphQL Ambassador is to be used for the purpose of evangelizing
+Your role as a GraphQL Ambassador is to be used for the purpose of promoting
 GraphQL and otherwise contributing to the GraphQL community and ecosystem. Both
 the GraphQL Code of Conduct and these Standards of Excellence prohibit use of
 GraphQL community spaces for political campaigning or promotion of political
@@ -109,18 +109,18 @@ discussion threads that are separate from GraphQL-related discussions.
   public figure), please share it privately to help the individual learn and
   grow. Please avoid sharing negative feedback or criticism about an individual
   (other than a public figure) publicly, because this could cause unnecessary
-  shame, embarrassment, or humiliation.
+  shame or humiliation.
 - When you have negative feedback or criticism about an organization or public
   figure, you may share it publicly or privately, so long as you do so in a
   respectful, courteous, and professional manner.
 
-## Consequences for Violation
+## Results of Violations
 
 If the GraphQL Foundation determines that a GraphQL Ambassador has violated
 these Standards of Excellence, or if a GraphQL Ambassador has been found in
 violation of the GraphQL Code of Conduct or the Linux Foundation Events Code of
 Conduct, the GraphQL Foundation, at its sole discretion, may take any action
-that it deems appropriate under the circumstances, including asking the GraphQL
+that it deems appropriate for the situation, including asking the GraphQL
 Ambassador to remove offending content from community spaces or public spaces,
 or suspending or removing the individual from the GraphQL Ambassador Program.
 
@@ -137,6 +137,6 @@ The GraphQL Foundation reserves the right to modify these Standards of
 Excellence at any time, at its sole discretion. The GraphQL Foundation will
 notify GraphQL Ambassadors of major changes to the guidelines by email [and via
 the GraphQL Ambassador Discord channel]. However, any changes to these
-guidelines will not apply retroactively. If these guidelines are updated and a
+guidelines will not apply to past actions. If these guidelines are updated and a
 GraphQL Ambassador does not wish to agree, their participation in the GraphQL
 Ambassador Program will cease until such time as they do agree.

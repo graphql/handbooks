@@ -3,10 +3,10 @@ title: Grants Overview
 sidebar_position: 1
 ---
 
-The GraphQL Community Grant program is funded by the GraphQL Foundation and
-administered by the [GraphQL Technical Steering Committee (TSC)][tsc]. The goal
-of the program is to provide financial support and incentives for key technical
-and community initiatives within the GraphQL Foundation's projects.
+The GraphQL Community Grant program is funded by the GraphQL Foundation and run
+by the [GraphQL Technical Steering Committee (TSC)][tsc]. The goal of the
+program is to provide financial support and incentives for key technical and
+community initiatives within the GraphQL Foundation's projects.
 
 The GraphQL Community Grant program accepts applications at any time and reviews
 them at least twice per year. Grant applications are reviewed by the TSC based
@@ -15,8 +15,7 @@ This is one way in which the GraphQL Foundation directly supports the ongoing
 health of the GraphQL developer ecosystem.
 
 We encourage you to be creative in your grant application, and propose tasks
-that are straightforward to articulate, achievable in three months, and bounded
-in scope.
+that are easy to describe, achievable in three months, and bounded in scope.
 
 Examples include:
 
@@ -25,7 +24,7 @@ Examples include:
 - Community advocacy, such as writing a deep-dive blog documenting a specific
   feature, writing a whitepaper, or developing newcomer onboarding guides and
   materials
-- Maintaining projects or infrastructure hosted in GraphQL repositories
+- Maintaining projects or core systems hosted in GraphQL repositories
 - Other user experience improvement ideas for the [graphql.org][] website and/or
   [github.com/graphql][]
 

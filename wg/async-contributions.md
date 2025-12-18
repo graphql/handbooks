@@ -14,7 +14,7 @@ If you are contributing to the GraphQL specification directly, check the
 
 :::
 
-You do not need to attend every meeting to contribute meaningfully. Use
+You do not need to attend every meeting to contribute in a useful way. Use
 asynchronous channels to stay involved between sessions.
 
 ## GitHub Participation
@@ -37,7 +37,7 @@ asynchronous channels to stay involved between sessions.
 
 - Join the GraphQL Foundation Discord and relevant channels (e.g.,
   `#wg-general`, `#wg-graphql-js`).
-- Keep conversations focused, reference agenda items, and capture decisions back
+- Keep discussions focused, reference agenda items, and capture decisions back
   in GitHub.
 - Utilize the working group mailing lists for formal announcements or consensus
   calls.

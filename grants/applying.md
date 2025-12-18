@@ -41,10 +41,10 @@ ecosystem-expanding activities, please look into the [Ambassador Program][].
 
 :::
 
-## International complexities
+## International challenges
 
-GraphQL Foundation is headquartered in the USA, which may introduce additional
-complexities based upon the geographic region from which you originate.
+GraphQL Foundation is based in the USA, which may introduce extra steps
+depending on where you live.
 
 ## Preparing a proposal
 
@@ -55,14 +55,14 @@ group members (particularly the TSC) for help and guidance! Consider pinging our
 community gardener, `@Benjie`, via the
 [GraphQL Discord](https://discord.graphql.org)'s #wg channel.
 
-### Clarity and completeness
+### Clarity and full details
 
 Your proposal will be analysed as submitted, so please be sure it is clear and
 contains all of the details necessary to analyse it.
 
 The description is limited; if you need to provide more information, whether
-that be longer form content or illustrations, please link out to a Google Doc
-with additional details.
+that be longer form content or images such as diagrams, please link out to a
+Google Doc with additional details.
 
 ### No AI slop
 
@@ -87,21 +87,21 @@ are the right person to take on this work.
 
 We aim to acknowledge your application within two weeks except during the
 holiday periods (particularly the summer and winter holidays). When we do so, we
-might ask for clarifications or changes. Once our initial reviewer is happy your
+might ask for more details or changes. Once our initial reviewer is happy your
 submission is in a good state, it will be submitted to the TSC for review.
 
 It will take a while for the TSC to review your proposal, and there may be
-longer negotiations around exactly what the work entails, and the cost for the
+longer discussions around exactly what the work entails, and the cost for the
 work. After that, there are legal matters surrounding creating the contract and
 setting you up to receive the payment. As such, you should anticipate that it
 may be a number of weeks before the funding period can start. If you're planning
 to do the work during a particular window (a gap between contracts, a holiday
 period, or similar) then be sure to surface this clearly in the application and
-submit significantly in advance of this date.
+submit well in advance of this date.
 
 Further, your work will require review, and the people reviewing it are
 volunteers. It can often be 2-3 weeks before your PRs are reviewed, and
-following review further changes or clarifications may be requested. Stay in
+following review further changes or extra details may be requested. Stay in
 touch with the contact you have for the work, typically over Discord or Slack
 DMs, and don't be afraid to ping via chat asking explicitly for a review for
 grant-funded work! Factor these review periods into the timeline of the work,
@@ -109,8 +109,8 @@ and ensure that you will be able to complete them.
 
 Once your work has been completed, reviewed, merged and so on, your grant will
 be complete. At this point you will submit a request for payment following the
-instructions provided to you upon successful application. Once the reimbursement
-request is approved, it may take up to a further 4 weeks to be paid.
+instructions provided to you upon successful application. Once the request is
+approved, it may take up to a further 4 weeks to be paid.
 
 ## Do not submit multiple concurrent proposals
 
@@ -125,7 +125,7 @@ excellent work! Please ensure you completed all tasks (including the required
 blog post!) and reference the work in your next submission.
 
 The GraphQL Community Grant _can_ be used to fund ongoing work such as
-maintainence of graphql-js, but doing so may follow slightly different rules
+maintenance of graphql-js, but doing so may follow slightly different rules
 than the above. Start by applying for funding for the first period, and we can
 advise you on the best way forward for further grants.
 
