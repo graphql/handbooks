@@ -47,10 +47,10 @@ _Only individuals are eligible to receive funding._
 
 Yes. All outcomes from the grant must be for the benefit of the GraphQL
 community, meaning that code must be contributed to public repositories under an
-appropriate open source license (generally MIT). Publications and documentation
-should be available to the public and not behind a paywall. We also expect every
-recipient to write a blog post summarizing the work they've done and how it
-benefits the community at large.
+appropriate open source license (generally MIT). Published materials and
+documentation should be available to the public and not behind a paywall. We
+also expect every recipient to write a blog post summarizing the work they've
+done and how it benefits the community at large.
 
 In summary, the GraphQL Community Grant Program is for the benefit of the
 GraphQL community. We want everything that is produced under this program to be
@@ -67,19 +67,19 @@ your responsibility to read and understand the contents of the agreement.
 
 All grants are awarded in United States Dollars (USD), so they should be
 requested in USD. The amount specified in the grant agreement is fixed in USD
-and will not be adjusted for currency fluctuations, conversion rates, or any
-other exchange-related considerations. Recipients are responsible for any
-associated currency conversion or banking fees.
+and will not be adjusted for currency changes, conversion rates, or any other
+exchange-related considerations. Recipients are responsible for any associated
+currency conversion or banking fees.
 
 ## When are grant funds disbursed?
 
-Grants are typically disbursed in full upon successful completion of the agreed
-deliverables. However, in select cases, individuals with a demonstrated history
-of substantial contributions to GraphQL Foundation projects may be eligible to
-receive a small portion of the grant amount as an advance. Any such advance is
-entirely at the discretion of the GraphQL Foundation and must be agreed upon in
-writing prior to the commencement of the grant work. The remainder will be
-disbursed only upon successful completion of the agreed deliverables.
+Grants are typically paid in full upon successful completion of the agreed work.
+However, in select cases, individuals with a proven history of substantial
+contributions to GraphQL Foundation projects may be eligible to receive a small
+portion of the grant amount as an advance. Any such advance is entirely at the
+discretion of the GraphQL Foundation and must be agreed upon in writing before
+the grant work starts. The remainder will be paid only upon successful
+completion of the agreed work.
 
 ## How does the review process work?
 
@@ -90,15 +90,15 @@ information is needed, it will be requested. Otherwise, the application proceeds
 to the full TSC for review, discussion, and voting.
 
 The TSC aims to provide feedback within a further 2–3 working weeks, though this
-may take longer depending on availability or complexity. If it takes longer than
-3 weeks, the applicant will be informed.
+may take longer depending on schedules or difficulty. If it takes longer than 3
+weeks, the applicant will be informed.
 
 At the end of the review process, one of three outcomes is likely:
 
 1.  The application is accepted, and next steps (contract, invoicing, etc.) are
     initiated.
 2.  Changes are requested (e.g. revised scope or funding).
-3.  The application is declined, typically with guidance for resubmission.
+3.  The application is declined, typically with guidance for applying again.
 
 Note: Timelines are best-effort and may shift due to holidays, travel, or other
 factors.

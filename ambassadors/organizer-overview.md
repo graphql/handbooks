@@ -2,8 +2,7 @@
 title: Organizer Toolkit
 ---
 
-Here are some miscellaneous processes outlined for the Ambassador program
-organizers.
+Here are some various processes outlined for the Ambassador program organizers.
 
 ## Offboarding and Alumni Network
 

@@ -19,7 +19,7 @@ Meetings are typically held monthly and are open to observers.
 - **Advance the spec.** Discuss proposals, review RFCs, and agree on the roadmap
   for new features.
 - **Coordinate tooling.** Enable implementers to align on behavior, test suites,
-  and interoperability.
+  and tools working together smoothly.
 - **Surface field feedback.** Capture lessons learned from production
   deployments and channel them back to maintainers.
 - **Build community.** Provide a collaborative space where contributors can
@@ -39,7 +39,7 @@ Meetings are typically held monthly and are open to observers.
 - **Primary WG:** Covers cross-cutting topics and specification updates.
 - **Subproject WGs:** Focus on specific parts of the ecosystem (e.g., GraphQL.js
   WG, GraphiQL WG, GraphQL over HTTP WG, Composite Schemas WG).
-- **Breakout WGs:** Groups tackling a single complex issue to be reincorporated
+- **Breakout WGs:** Groups tackling a single complex issue to be brought back
   upstream at a later date (e.g. Nullability WG, Incremental Delivery WG).
 
 ## Participant Roles

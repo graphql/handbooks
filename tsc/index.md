@@ -12,13 +12,13 @@ mandate and membership are documented in the
 
 <!-- This was AI generated
 
-## Responsibilities
+## TSC duties
 
 - Maintain the technical roadmap and resolve escalated decisions from working
   groups.
-- Steward the GraphQL specification, ensuring compatibility and clarity across
-  implementations.
-- Coordinate cross-project efforts, including release planning and security
+- Steward the GraphQL specification, making sure projects work together and stay
+  clear across implementations.
+- Guide cross-project efforts, including release planning and security
   response.
 - Uphold community values, governance processes, and the code of conduct.
 
@@ -26,7 +26,7 @@ mandate and membership are documented in the
 
 - TSC members are nominated from the GraphQL Working Group community and
   approved by the Foundation.
-- Members represent both individual expertise and organizational stakeholders.
+- Members represent both individual expertise and company stakeholders.
 - The roster, terms, and voting eligibility are tracked in the TSC GitHub
   repository.
 
@@ -44,7 +44,7 @@ mandate and membership are documented in the
   TSC.
 - TSC members sponsor new working groups or task forces when strategic
   initiatives arise.
-- Minutes from TSC meetings are shared back with the broader community to ensure
-  transparency.
+- Minutes from TSC meetings are shared back with the broader community to keep
+  everyone informed.
 
 -->

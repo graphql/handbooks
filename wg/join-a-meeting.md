@@ -40,8 +40,8 @@ Consult the
 ## 4. Access the Meeting
 
 - Join the Zoom link five minutes early to check audio and video.
-- Use your real name and add your affiliation in parentheses for quick
-  identification.
+- Use your real name and add your affiliation in parentheses so people can
+  quickly see who you are.
 - Keep your camera on when speaking if bandwidth allows—it helps with
   facilitation.
 
