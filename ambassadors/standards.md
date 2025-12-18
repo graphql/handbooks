@@ -5,11 +5,11 @@ title: Standards of Excellence
 While the wider GraphQL community abides by the
 [contributor covenant code of conduct](https://graphql.org/codeofconduct/), a
 stronger set of standards is used for the Ambassador Program. This is because
-the Foundation endorses Ambassadors as people who represent the community and
-as leaders; the Standards of Excellence are designed to provide a set of
-guidelines and best practices for engaging with the GraphQL Foundation and
-broader community. This makes it easier for Ambassadors to contribute to a
-positive culture by providing clarity around what and how we create a safe and
+the Foundation endorses Ambassadors as people who represent the community and as
+leaders; the Standards of Excellence are designed to provide a set of guidelines
+and best practices for engaging with the GraphQL Foundation and broader
+community. This makes it easier for Ambassadors to contribute to a positive
+culture by providing clarity around what and how we create a safe and
 collaborative environment.
 
 ## Scope
@@ -65,8 +65,8 @@ constructive criticism, holding others accountable, identifying opportunities
 for improvement, and discussing potential challenges. However, always express
 yourself in a manner that is respectful and professional, and strive to also be
 tactful and sensitive to how your words may impact others. See the “Be Graceful
-With Feedback” section below for suggestions on how to deliver feedback
-in a helpful and kind way.
+With Feedback” section below for suggestions on how to deliver feedback in a
+helpful and kind way.
 
 As a GraphQL Ambassador, your actions can reflect either positively or poorly on
 the GraphQL community, Foundation, and brand. Therefore, engaging in activity

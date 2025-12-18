@@ -125,9 +125,9 @@ excellent work! Please ensure you completed all tasks (including the required
 blog post!) and reference the work in your next submission.
 
 The GraphQL Community Grant _can_ be used to fund ongoing work such as
-maintenance of graphql-js, but doing so may follow slightly different rules
-than the above. Start by applying for funding for the first period, and we can
-advise you on the best way forward for further grants.
+maintenance of graphql-js, but doing so may follow slightly different rules than
+the above. Start by applying for funding for the first period, and we can advise
+you on the best way forward for further grants.
 
 [application-form]:
   https://docs.google.com/forms/d/e/1FAIpQLSciopqGoQE2hBhxsb5E6dq12VrD221Zv4dsGWa1nQM35FT1nA/viewform?usp=sf_link
