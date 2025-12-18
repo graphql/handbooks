@@ -2,13 +2,6 @@
 title: Organizer Toolkit
 ---
 
-:::info Only need the excellence checklist?
-
-This is an overview for the Ambassador Program organizers, see
-[the Program Overview](./) for an overview for Ambassadors and applicants.
-
-:::
-
 Here are some miscellaneous processes outlined for the Ambassador program
 organizers.
 
