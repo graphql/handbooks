@@ -4,11 +4,7 @@ sidebar_position: 2
 
 # Mailing List
 
-:::info Target audience: approved GraphQL Local organizers
-
-:::
-
-Please join the GraphQL Locals mailing list:
+Approved GraphQL Local organizers should join the GraphQL Locals mailing list:
 
 https://lists.foundation.graphql.org/g/locals
 

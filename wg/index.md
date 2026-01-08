@@ -3,13 +3,6 @@ title: Working Groups Overview
 sidebar_position: 1
 ---
 
-:::tip Only need joining instructions?
-
-Jump to [Join a Meeting](./join-a-meeting.md) if you are ready to participate
-right away.
-
-:::
-
 GraphQL Working Groups (WGs) bring maintainers, implementers, and community
 experts together to shape the future of the GraphQL specification and ecosystem.
 Meetings are typically held monthly and are open to observers.
@@ -44,9 +37,11 @@ Meetings are typically held monthly and are open to observers.
 
 ## Participant Roles
 
-- **Chair:** Maintain agenda, facilitate discussions, and ensure follow-up items
-  are tracked.
-- **Editor:** Maintain the official specs and track normative changes.
-- **Implementer:** Share insights from runtimes, tooling, and large deployments.
-- **Observer:** Listen in, learn the process, and may comment through GitHub
-  issues or Discord chat.
+- **Host** (aka chair, facilitator): Maintain agenda, facilitate discussions,
+  and ensure follow-up items are tracked.
+- **Editor**: Maintain the official specs and track normative changes.
+- **Champion**: Introduce changes, seek feedback, push for advancement.
+- **Attendee**: Offer relevant feedback, spot issues, consider edge cases, share
+  insights from runtimes, tooling, and large deployments.
+- **Observer**: Watch via YouTube, learn the process, comment through GitHub
+  issues or Discord chat, become an Attendee!
