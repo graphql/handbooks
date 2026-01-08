@@ -71,9 +71,9 @@ Reduce friction wherever possible:
 ## Repeat your messaging!
 
 Post **again and again** on social media. Don't get spammy, vary your messages,
-but remember: most people didn't see your first message, and even fewer acted on
-it. It's often said that people need to see a message 8 times before they act on
-it!
+but remember: most people didn't see your first message, and even fewer clicked
+through. It's often said that people need to see a message 8 times before they
+act on it!
 
 Find opportunities to boost your speaker(s) other social media posts with a note
 that they'll be speaking at your event.
