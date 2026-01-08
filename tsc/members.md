@@ -3,7 +3,8 @@
 For an up to date list of members, see:
 https://github.com/graphql/graphql-wg/blob/main/GraphQL-TSC.md#tsc-members
 
-The current members of the GraphQL TSC are (in chair, name order):
+The members of the GraphQL TSC up until 31st Jan 2026 are (in chair, name
+order):
 
 | Name                                               | Affiliation           | Term begins | Term ends    |
 | -------------------------------------------------- | --------------------- | ----------- | ------------ |

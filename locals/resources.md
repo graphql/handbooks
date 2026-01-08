@@ -3,13 +3,6 @@ title: Resources & Templates
 sidebar_position: 3
 ---
 
-:::info Looking for funding?
-
-If your immediate need is event financial, head to
-[Sponsorship](./sponsorship.md).
-
-:::
-
 ## Template slide deck
 
 A template slide deck, suitable for the organizer or for use by speakers:
@@ -26,3 +19,7 @@ https://youtu.be/lKeEhbQqjNw?list=PLu_TLSnl46RqT7utOS2iqNn9beOX4bshO&t=789
 
 The GraphQL logo files can be downloaded from the brand guidelines page:
 https://graphql.org/brand/
+
+## Sponsorship
+
+See: [Sponsorship](./sponsorship.md).

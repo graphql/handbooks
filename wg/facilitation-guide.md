@@ -11,6 +11,8 @@ others do it via our
 Effective facilitation keeps working group meetings inclusive, efficient, and
 outcome-driven.
 
+We often use the terms facilitator, chair and host interchangeably.
+
 ## Before the Meeting
 
 - Agenda templates should be auto-generated ahead of time, if your WG is new
@@ -78,8 +80,8 @@ notes**. Do not trust the AI to capture these accurately!
 - Zoom recordings will be sync'd to YouTube roughly once a week (typically
   Thursdays).
 - Meeting notes should be added to the repository following the pattern already
-  in use (see instructions in the repo). If the facilitator doesn't take care of
-  this, typically the community gardener will do so after a week or two.
+  in use (see instructions in the repo). If the host doesn't take care of this,
+  typically the community gardener will do so after a week or two.
 - Update GitHub issues with decisions made or next steps assigned.
 
 ## Agendas
