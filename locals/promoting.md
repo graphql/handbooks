@@ -23,6 +23,9 @@ attendees benefit from broader attendance!
 1. **Promote your event to attendees of your previous events.**  
    Past attendees are by far your most likely future attendees. Even a small
    mailing list is extremely valuable.
+1. **Tell us about your event.**  
+   You can submit it
+   [to the community WG via the dedicated form](https://github.com/graphql/community-wg/issues/new?template=event-submission.yml).
 1. **Announce the event via your own social media platforms.**  
    Personal posts often perform better than organizational ones, not least
    because it's likely that people from your locality follow you! A short
