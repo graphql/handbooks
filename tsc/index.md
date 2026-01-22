@@ -3,12 +3,27 @@ title: TSC Overview
 sidebar_position: 1
 ---
 
-See: https://github.com/graphql/graphql-wg/blob/main/GraphQL-TSC.md
+First: make yourself familiar with
+[graphql-wg/GraphQL-TSC.md](https://github.com/graphql/graphql-wg/blob/main/GraphQL-TSC.md).
 
 The GraphQL Technical Steering Committee (TSC) is responsible for the health and
 direction of the GraphQL specification and related open-source projects. Its
 mandate and membership are documented in the
 [GraphQL TSC charter](https://raw.githubusercontent.com/graphql/graphql-wg/refs/heads/main/GraphQL-TSC.md).
+
+_This is an informal and evolving document, written by TSC members, for TSC
+members. Please do edit it with additional useful info!_
+
+## Quick links
+
+- [TSC overview](https://github.com/graphql/graphql-wg/blob/main/GraphQL-TSC.md)
+  including
+  [current members and emeriti](https://github.com/graphql/graphql-wg/blob/main/GraphQL-TSC.md#tsc-members)
+- [TSC charter](https://github.com/graphql/foundation/blob/master/GraphQL%20Specification%20Membership%20Agreement%20February%202019.pdf)
+- [TSC discussion board (private)](https://github.com/graphql/tsc/discussions)
+- [TSC private mailing list](https://lists.foundation.graphql.org/g/tsc-private)
+  (mostly for votes)
+- [Individual TSC member contact details](https://github.com/graphql/tsc/blob/main/CONTACT.md)
 
 <!-- This was AI generated
 
