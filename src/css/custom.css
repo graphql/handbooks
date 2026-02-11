@@ -81,6 +81,11 @@ body {
   box-shadow: var(--ifm-navbar-shadow);
 }
 
+/* Hack to fix weird layout glitch on mobile */
+.navbar-sidebar {
+  height: 100vh;
+}
+
 .navbar__title,
 .navbar__link {
   font-weight: 500;
