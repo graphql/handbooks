@@ -76,6 +76,7 @@ const config: Config = {
     docs("wg"),
     docs("tsc"),
     docs("grants"),
+    docs("contributors"),
   ],
 
   themeConfig: {
@@ -131,6 +132,13 @@ const config: Config = {
           docId: "index",
           docsPluginId: "grants",
           label: "Grants",
+          position: "left",
+        },
+        {
+          type: "doc",
+          docId: "index",
+          docsPluginId: "contributors",
+          label: "Contributing",
           position: "left",
         },
         {
