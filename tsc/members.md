@@ -8,26 +8,26 @@ sidebar_position: 20
 For the canonical up to date list of members, see
 [graphql-wg/GraphQL-TSC.md](https://github.com/graphql/graphql-wg/blob/main/GraphQL-TSC.md#tsc-members).
 
-The members of the GraphQL TSC up **until 31st Jan 2026** are (in chair, name
+The members of the GraphQL TSC up **until 31st Jan 2027** are (in chair, name
 order):
 
 | Name                                             | Affiliation           | Term begins | Term ends    |
 | ------------------------------------------------ | --------------------- | ----------- | ------------ |
 | [Lee Byron (chair)](https://github.com/leebyron) | GraphQL Specification | N/A         | N/A          |
 | [Benjie Gillam](https://github.com/benjie)       | Graphile              | Nov 1, 2020 | Jan 31, 2028 |
-| [Kewei Qu](https://github.com/Keweiqu)           | Meta                  | Jan 1, 2023 | Dec 31, 2026 |
+| [Kewei Qu](https://github.com/Keweiqu)           | Meta                  | Jan 1, 2023 | Jan 31, 2027 |
 | [Mark Larah](https://github.com/magicmark)       | Yelp                  | Feb 1, 2026 | Jan 31, 2028 |
-| [Martin Bonnin](https://github.com/martinbonnin) | Apollo                | Feb 1, 2025 | Dec 31, 2026 |
+| [Martin Bonnin](https://github.com/martinbonnin) | Apollo                | Feb 1, 2025 | Jan 31, 2027 |
 | [Matt Mahoney](https://github.com/mjmahone)      | Meta                  | Nov 1, 2020 | Jan 31, 2028 |
 | [Michael Staib](https://github.com/michaelstaib) | ChilliCream           | Jan 1, 2022 | Jan 31, 2028 |
-| [Pascal Senn](https://github.com/PascalSenn)     | ChilliCream           | Feb 1, 2025 | Dec 31, 2026 |
-| [Rob Richard](https://github.com/robrichard)     | 1stDibs               | Jan 1, 2023 | Dec 31, 2026 |
-| [Uri Goldshtein](https://github.com/urigo)       | The Guild             | Jan 1, 2023 | Dec 31, 2026 |
+| [Pascal Senn](https://github.com/PascalSenn)     | ChilliCream           | Feb 1, 2025 | Jan 31, 2027 |
+| [Rob Richard](https://github.com/robrichard)     | 1stDibs               | Jan 1, 2023 | Jan 31, 2027 |
+| [Uri Goldshtein](https://github.com/urigo)       | The Guild             | Jan 1, 2023 | Jan 31, 2027 |
 | [Yaacov Rydzinski](https://github.com/yaacovcr)  | N/A                   | Feb 1, 2026 | Jan 31, 2028 |
 
 ## Emeriti
 
-We thank all our prior TSC members for their work (in time order):
+We thank all our prior TSC members for their contribution (in term ended order):
 
 | Name                                               | Affiliation   | Term began  | Term ended   |
 | -------------------------------------------------- | ------------- | ----------- | ------------ |
@@ -40,5 +40,5 @@ We thank all our prior TSC members for their work (in time order):
 | [Marc-Andre Giroux](https://github.com/xuorig)     | Netflix       | Jan 1, 2022 | Jan 31, 2024 |
 | [Andi Marek](https://github.com/andimarek)         | Atlassian     | Nov 1, 2020 | Jan 31, 2025 |
 | [Stephen Spalding](https://github.com/fotoetienne) | Netflix       | Jan 1, 2023 | Jan 31, 2025 |
-| [Denis Badurina](https://github.com/enisdenjo)     | The Guild     | Feb 1, 2024 | Dec 31, 2025 |
-| [Ivan Goncharov](https://github.com/IvanGoncharov) | Keenethics    | Nov 1, 2020 | Dec 31, 2025 |
+| [Denis Badurina](https://github.com/enisdenjo)     | The Guild     | Feb 1, 2024 | Jan 31, 2026 |
+| [Ivan Goncharov](https://github.com/IvanGoncharov) | Keenethics    | Nov 1, 2020 | Jan 31, 2026 |
