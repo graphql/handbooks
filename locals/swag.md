@@ -13,6 +13,10 @@ guidelines located at https://graphql.org/brand/ (for inspiration, see the
 examples at https://store.graphql.org and don't hesitate to reach out if you are
 not sure whether your design will meet the brand guide).
 
+You may also print copies of the [GraphQL cheatsheet](https://github.com/graphql/community-wg/tree/main/cheatsheet) 
+to distribute to attendees. We recommend printing it on paper with a weight of at 
+least 150 g/m² for good quality.
+
 You can add the costs of the swag to your [sponsorship claim](./sponsorship.md),
 up to a maximum of $70 including shipping. For clarity: at time of writing your
 total claims for a quarter can be at most USD $470; that's up to USD $400
