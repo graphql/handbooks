@@ -3,7 +3,7 @@
 Locals may provide swag to speakers, organizers, or audience members. The
 GraphQL foundation has a limited swag budget available to Locals (see the
 official
-[GraphQL Local Initiative page](https://graphql.org/community/foundation/local-initiative/).
+[GraphQL Local Initiative page](https://graphql.org/community/foundation/local-initiative/)).
 
 Shipping from the US to other countries can be expensive and lengthy, so for
 Locals outside of the United States and Canada, we encourage you to work with a
