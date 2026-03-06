@@ -3,7 +3,7 @@
 Locals may provide swag to speakers, organizers, or audience members. The
 GraphQL foundation has a limited swag budget available to Locals (see the
 official
-[GraphQL Local Initiative page](https://graphql.org/community/foundation/local-initiative/).
+[GraphQL Local Initiative page](https://graphql.org/community/foundation/local-initiative/)).
 
 Shipping from the US to other countries can be expensive and lengthy, so for
 Locals outside of the United States and Canada, we encourage you to work with a
@@ -12,6 +12,11 @@ t-shirts - you may do so with our permission so long as you follow our brand
 guidelines located at https://graphql.org/brand/ (for inspiration, see the
 examples at https://store.graphql.org and don't hesitate to reach out if you are
 not sure whether your design will meet the brand guide).
+
+You may also print copies of the
+[GraphQL cheatsheet](https://github.com/graphql/community-wg/tree/main/cheatsheet)
+to distribute to attendees. We recommend printing it on paper with a weight of
+at least 150 g/m² for good quality.
 
 You can add the costs of the swag to your [sponsorship claim](./sponsorship.md),
 up to a maximum of $70 including shipping. For clarity: at time of writing your
