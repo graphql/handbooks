@@ -124,6 +124,19 @@ export default function Home(): ReactNode {
                   releases and coordinating between projects.
                 </p>
               </Handbook>
+              <Handbook
+                title="Contributing to GraphQL"
+                url="/contributors"
+                linkText="Contributors Handbook"
+              >
+                <p>
+                  GraphQL projects are hosted on the GraphQL GitHub
+                  organization. There are many ways to contribute to the GraphQL
+                  project: through working groups, code contributions and
+                  community initiatives. This handbook covers what you need to
+                  know to get started contributing to the code side of things.
+                </p>
+              </Handbook>
             </div>
             <div className={styles.programsCard}>
               <h3>💡 Community-maintained </h3>
