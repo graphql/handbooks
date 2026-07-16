@@ -30,16 +30,18 @@
 }
 
 .overviewGrid {
-  display: grid;
+  display: flex;
   gap: 2rem;
-  grid-template-columns: repeat(auto-fit, minmax(22rem, 1fr));
+  flex-wrap: wrap;
   margin-bottom: 2.5rem;
-  align-items: start;
+  align-items: stretch;
+  justify-content: space-around;
 }
 
 .handbookCard {
+  flex: 1 0 22rem;
+  max-width: 30rem;
   display: flex;
-  height: 100%;
   flex-direction: column;
   border: 2px solid #e10098;
   border-radius: 15px;

@@ -124,6 +124,17 @@ export default function Home(): ReactNode {
                   releases and coordinating between projects.
                 </p>
               </Handbook>
+              <Handbook
+                title="Crowdfund"
+                url="/crowdfund"
+                linkText="Crowdfund Handbook"
+              >
+                <p>
+                  The GraphQL Foundation supports many of its initiatives
+                  through crowdfunding. Find out how to contribute to the fund,
+                  and how to claim from it.
+                </p>
+              </Handbook>
             </div>
             <div className={styles.programsCard}>
               <h3>💡 Community-maintained </h3>
