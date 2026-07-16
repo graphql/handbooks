@@ -76,6 +76,7 @@ const config: Config = {
     docs("wg"),
     docs("tsc"),
     docs("grants"),
+    docs("crowdfund"),
   ],
 
   themeConfig: {
