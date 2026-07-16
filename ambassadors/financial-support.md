@@ -4,11 +4,8 @@ sidebar_position: 5
 ---
 
 To support Ambassador efforts to promote GraphQL far and wide, the Foundation is
-glad to offer financial support through its
-[crowdfunding platform](https://crowdfunding.lfx.dev), which it contributes
-along with third parties. Ambassadors can request funding support for their
-activities by emailing `operations@graphql.org`. They will then be added to the
-crowdfund's list of beneficiaries and able to submit an expense report.
+glad to offer limited financial support through its [crowdfund](/crowdfund).
+Please see that link for details of how to request support.
 
 ## Supported activities
 
