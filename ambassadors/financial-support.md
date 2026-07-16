@@ -21,10 +21,12 @@ additional guidance for them:
 
 - Check to see if your employer can help first
 - The activity you are doing must be directly related to promoting GraphQL
-- Domestic travel requests may be supported up to
-- International travel requests may be supported up to
-- Total travel support requests in a given year should not exceed
 - Travel support may be used for transportation, hotel stay, or per-diem
+- The following limits apply (these may change without notice):
+  - Domestic travel requests must not exceed USD $500
+  - International travel requests must not exceed USD $1000
+  - Total travel support for a single ambassador in a given year must not exceed
+    USD $1000
 
 ## Honorarium for content creation
 
