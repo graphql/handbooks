@@ -1,5 +1,6 @@
 ---
 title: Standards of Excellence
+sidebar_position: 7
 ---
 
 While the wider GraphQL community abides by the
