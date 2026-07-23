@@ -85,6 +85,18 @@ const config: Config = {
     colorMode: {
       respectPrefersColorScheme: true,
     },
+    algolia: {
+      // The application ID provided by Algolia
+      appId: "ZUPRW4W38C",
+      // Public API key: it is safe to commit it
+      apiKey: "56c6b6e90be232bf250fa4280f9979d7",
+
+      indexName: "Handbooks Crawler",
+      contextualSearch: true,
+      searchPagePath: "search",
+      insights: false,
+      askAi: undefined,
+    },
     navbar: {
       title: "GraphQL Handbooks",
       logo: {
