@@ -11,9 +11,9 @@ grant and choosing whose applications are approved/denied.
 The grants program process is essentially this:
 
 1. Applicants fill out the Google Form linked in the grants page above.
-2. The application is sent to the grants program operations team (currently Jory
-   and Benjie); and it is CC'd to the TSC mailing list. Take no action, this is
-   just for transparency!
+2. The application is sent to the grants program operations team (currently
+   Martin); and it is CC'd to the TSC mailing list. Take no action, this is just
+   for transparency!
 3. The operations team aims to action the application within a week or so; this
    may be by seeking further information or clarifications from the applicant
    (in which case return to step 2), declining the application if it is out of
