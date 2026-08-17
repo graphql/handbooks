@@ -25,7 +25,7 @@ additional guidance for them:
 - The following limits apply (these may change without notice):
   - Domestic travel requests must not exceed USD $500
   - International travel requests must not exceed USD $1000
-  - Total travel support for a single ambassador in a given year must not exceed
+  - Total travel support for a single Ambassador in a given year must not exceed
     USD $1000
 
 ## Honorarium for content creation
