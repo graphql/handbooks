@@ -1,6 +1,6 @@
 ---
 title: Organizer Toolkit
-sidebar_position: 8
+sidebar_position: 9
 ---
 
 Here are some various processes outlined for the Ambassador program organizers.
@@ -26,16 +26,15 @@ of contact, the Ambassador tasks and support available from the Foundation. We
 are trialing a 90 minute call, where the onboarding is only 20 minutes or so and
 the rest of the time is available for Q&A and socialising time.
 
-## Offboarding and Alumni Network
+## Offboarding and Emeritus Program
 
-Upon completing a successful term, Ambassadors join our Alumni Network:
+Upon completing a successful term, Ambassadors join the
+[Emeritus Program](./ambassador-emeriti):
 
-- Continued Ambassador Discord channel to answer questions from new Ambassadors.
-- Priority CFP notifications for GraphQL Foundation events
-- Annual Alumni spotlight blog series
-
-_Note: The first wave of Ambassadors will not be ending their term until
-September 2026, the Alumni Network is not yet in place._
+- Continued access to the Ambassador Discord channel to answer questions from
+  new Ambassadors.
+- Continued access to the Ambassador mailing list
+- Able to join Ambassador Q&A calls
 
 ## Removal of an Ambassador
 
