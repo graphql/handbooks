@@ -103,7 +103,7 @@ At the end of the review process, one of three outcomes is likely:
 Note: Timelines are best-effort and may shift due to holidays, travel, or other
 factors.
 
-## How does the billing process work?
+## How does the payment process work?
 
 After a grantee is approved:
 
