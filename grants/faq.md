@@ -107,7 +107,7 @@ factors.
 
 After a grantee is approved:
 
-1. The Linux Foundation Project Manager for GraphQL (PM) will send the grantee
+1. The Linux Foundation Program Manager for GraphQL (PM) will send the grantee
    the link to US tax forms and wire transfer form (if applicable). The grantee
    must fill out and return the form to the PM. The completed form must include,
    at minimum, the legal name, mailing address, tax classification, and tax
