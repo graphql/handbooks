@@ -6,8 +6,7 @@ sidebar_position: 910
 One of the TSC’s responsibilities is helping to respond to security incidents
 affecting GraphQL. The EU Cyber Resilience Act (CRA) introduces new requirements
 for how serious security incidents must be assessed and reported. These
-reporting requirements begin to apply in 2026, ahead of the CRA coming fully
-into effect on 11 December 2027.
+reporting requirements fully come into effect on 11 December 2027.
 
 For GraphQL, TSC members will have an important role in identifying and
 classifying potential incidents in all GraphQL Foundation projects, verifying
