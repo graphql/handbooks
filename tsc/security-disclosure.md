@@ -34,7 +34,7 @@ projects.
 ## What happens next
 
 The Linux Foundation acts as the GraphQL projects' "open source steward". Under
-this role, LFX will report the incident to the nominated European Union Agency
+this role, the Linux Foundation will report the incident to the nominated European Union Agency
 of Cybersecurity (ENISA) and designated Computer Security Incident Response Team
 (CSIRT). They will have the following timeline to follow:
 
