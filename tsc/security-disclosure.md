@@ -3,6 +3,14 @@ title: Security disclosures and the Cyber Resilience Act (CRA)
 sidebar_position: 910
 ---
 
+> [!NOTE]
+>
+> This article, like all articles on this site, is maintained by the community.
+> It reflects our understanding of the available information, but does not
+> constitute legal advice and has not been written by legal professionals. You
+> should seek qualified legal advice when assessing how the EU Cyber Resilience
+> Act applies to your particular circumstances.
+
 One of the TSC’s responsibilities is helping to respond to security incidents
 affecting GraphQL. The EU Cyber Resilience Act (CRA) introduces new requirements
 for how serious security incidents must be assessed and reported. These
@@ -15,11 +23,11 @@ as GraphQL’s designated open-source software steward.
 
 ## Glossary
 
-**Designated CSIRT** - "Designated Computer Security Incident Response Team" - a
-body who accepts the vulnerability reports.
+**Designated CSIRT** - "Designated Computer Security Incident Response Team" - an
+official body who accepts the vulnerability reports.
 
-**ENISA** - "The European Union Authority for Cybersecurity" - a second body who
-accepts the vulnerability reports.
+**ENISA** - "The European Union Authority for Cybersecurity" - a second official
+body who accepts the vulnerability reports.
 
 **Legal person:** - An organization or entity recognised by law as having its
 own rights and obligations. This is distinct from a **natural person**, meaning
@@ -42,17 +50,15 @@ covered by the CRA.
 The law only applies to "products with digital elements" (PDEs).
 
 PDEs are a software or a hardware product and its remote data processing
-solutions, including separate software or hardware components. For the purposes
-of this guidance, GraphQL Foundation software projects such as GraphQL.js should
-be treated as PDEs. At this time (September 2026), it's understood that non
-software GraphQL projects such as the GraphQL Specification itself do not count
-as PDEs.
+solutions, including separate software or hardware components. At this time
+(September 2026), it's understood that non software GraphQL projects such as the
+GraphQL Specification itself do not count as PDEs.
 
 Although GraphQL software projects are free and open-source and are not sold by
-the GraphQL Foundation, they are intended to be used in software products and
-services, including commercial ones. They therefore fall within the CRA's
+the GraphQL Foundation, some are intended to be used in software products and
+services, including commercial ones. They therefore may fall within the CRA's
 provisions for free and open-source software supported by an open-source
-software steward (In GraphQL's case, the steward is the Linux Foundation).
+software steward (in GraphQL's case, the steward is the Linux Foundation).
 
 ### PDE classification
 
