@@ -1,5 +1,6 @@
 ---
 title: CVE process background
+sidebar_position: 900
 ---
 
 One of the responsibilities of the TSC is in helping deal with security
