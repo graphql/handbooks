@@ -3,9 +3,9 @@ title: GraphQL Foundation
 ---
 
 The GraphQL Foundation is a Directed Fund hosted by the Linux Foundation. It is
-not a standalone legal entity. The Directed Fund raises, budgets and spends funds
-in support of the GraphQL community, including the "GraphQL OSS Project", a
-Series of LF Projects, LLC, and the "GraphQL Specification", a Series of JDF
+not a standalone legal entity. The Directed Fund raises, budgets and spends
+funds in support of the GraphQL community, including the "GraphQL OSS Project",
+a Series of LF Projects, LLC, and the "GraphQL Specification", a Series of JDF
 Projects, LLC.
 
 The OSS Project, together with the Specification Project, forms the Technical
