@@ -93,6 +93,20 @@ This file needs to exist, even if it's empty:
 }
 ```
 
+### GitHub Labels
+
+Copy at least the following GitHub labels (title, description, colour) from the
+GraphQL spec repository:
+
+- Process
+- Editorial
+- RFC3
+- RFC2
+- RFC1
+- RFC0
+- Rejected (RFCX)
+- Superseded (RFCX)
+
 ## Release process
 
 A release is tagged as `MonthYYYY` where `Month` is the full month name in
@@ -122,7 +136,7 @@ The spec release process is as follows:
    inferred/guessed from GitHub data, but this can be inaccurate - carefully
    check the usernames you don't recognize as contributors; maybe we meant a
    different user!
-1. Open a pull request for TSC voting.
+1. Open a pull request for TSC voting; label it with "Process".
 
 ### TSC approval
 
