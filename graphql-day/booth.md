@@ -3,7 +3,8 @@ title: Booth staff
 sidebar_position: 3
 ---
 
-The booth is a place for the community to gather and, most importantly, to reach out and answer questions about GraphQL! 
+The booth is a place for the community to gather and, most importantly, to reach
+out and answer questions about GraphQL!
 
 ## Who can staff a booth
 
@@ -45,12 +46,15 @@ Adapt what you say to the person you are talking to.
 
 ## Scanning badges
 
-Most venues offer a badge scanning app. It's very useful to get an idea of who visits the booth and what the typical questions are.
+Most venues offer a badge scanning app. It's very useful to get an idea of who
+visits the booth and what the typical questions are.
 
-It is obviously 100% optional and attendee consent is required before scanning badges. We found out that most attendees are happy to have their badge scanned for follow ups/more detailed information. 
+It is obviously 100% optional and attendee consent is required before scanning
+badges. We found out that most attendees are happy to have their badge scanned
+for follow ups/more detailed information.
 
 ## Etiquette
 
 - Do not be defensive.
 - Be understanding, and gently help to correct misunderstandings.
-- Smile! 
+- Smile!
