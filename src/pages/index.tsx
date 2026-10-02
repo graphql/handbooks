@@ -135,6 +135,16 @@ export default function Home(): ReactNode {
                   and how to claim from it.
                 </p>
               </Handbook>
+              <Handbook
+                title="GraphQL Days"
+                url="/graphql-day"
+                linkText="GraphQL Days Handbook"
+              >
+                <p>
+                  Guidance for running a GraphQL Day: coordinating the event,
+                  running a booth, emceeing and more.
+                </p>
+              </Handbook>
             </div>
             <div className={styles.programsCard}>
               <h3>💡 Community-maintained </h3>
