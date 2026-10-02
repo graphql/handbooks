@@ -14,7 +14,7 @@ ambassador tasks.
 
 ## Staffing the booth
 
-- Wear the pink t-shirt.
+- Wear the pink t-shirt ([a pink t-shirt](https://graphql-foundation-shop.fourthwall.com/products/ask-me-about-graphql) if you don't have one already).
 - Do not stand in a circle facing inwards. Stand in a horseshoe or a line, so
   people feel welcome to join.
 - Always have 2 people on the booth, in case one person needs a break.
