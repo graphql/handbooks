@@ -77,6 +77,7 @@ const config: Config = {
     docs("tsc"),
     docs("grants"),
     docs("crowdfund"),
+    docs("graphql-day"),
   ],
 
   themeConfig: {
@@ -144,6 +145,13 @@ const config: Config = {
           docId: "index",
           docsPluginId: "grants",
           label: "Grants",
+          position: "left",
+        },
+        {
+          type: "doc",
+          docId: "index",
+          docsPluginId: "graphql-day",
+          label: "GraphQL Days",
           position: "left",
         },
         {
