@@ -1,6 +1,6 @@
 ---
 title: Event coordinator
-sidebar_position: 2
+sidebar_position: 3
 ---
 
 The event coordinator makes sure everything goes smoothly. They don't need to do

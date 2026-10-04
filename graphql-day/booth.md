@@ -1,6 +1,6 @@
 ---
 title: Booth staff
-sidebar_position: 3
+sidebar_position: 4
 ---
 
 The booth is a place for the community to gather and, most importantly, to reach
@@ -11,6 +11,8 @@ out and answer questions about GraphQL!
 You do not need to be an [ambassador](/ambassadors) to be a booth
 representative. If you are an ambassador, staffing a booth counts as one of your
 ambassador tasks.
+
+People who staff the booth abide to the [GraphQL Day manifesto](./manifesto).
 
 ## Staffing the booth
 
