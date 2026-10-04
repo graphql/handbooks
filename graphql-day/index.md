@@ -9,6 +9,8 @@ opportunity to raise awareness outside the GraphQL bubble.
 In 2026, GraphQL Days happened in partnership with
 [FOST](https://www.joinfost.io/) but other venues are also possible.
 
+Read the [manifesto](./manifesto.md) to learn what GraphQL Days stand for.
+
 This guide is a list of resources and checklists for:
 
 - [Event coordinators](./event-coordinator.md)

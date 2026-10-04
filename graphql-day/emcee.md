@@ -1,6 +1,6 @@
 ---
 title: Emceeing
-sidebar_position: 4
+sidebar_position: 5
 ---
 
 The emcee welcomes attendees in the track and introduces speakers.
