@@ -1,5 +1,5 @@
 ---
-title: Event coordinator
+title: Coordinating an event
 sidebar_position: 3
 ---
 

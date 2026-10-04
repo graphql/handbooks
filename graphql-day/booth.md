@@ -1,5 +1,5 @@
 ---
-title: Booth staff
+title: Staffing the booth
 sidebar_position: 4
 ---
 
