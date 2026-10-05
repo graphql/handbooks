@@ -23,8 +23,8 @@ as GraphQL’s designated open-source software steward.
 
 ## Glossary
 
-**Designated CSIRT** - "Designated Computer Security Incident Response Team" - an
-official body who accepts the vulnerability reports.
+**Designated CSIRT** - "Designated Computer Security Incident Response Team" -
+an official body who accepts the vulnerability reports.
 
 **ENISA** - "The European Union Authority for Cybersecurity" - a second official
 body who accepts the vulnerability reports.
@@ -122,3 +122,7 @@ essential information and an overview the progress of the Act so far.
 OpenSSF are the Open Source Security Foundation, placed under the Linux
 Foundation. OpenSSF seek to make it easier to sustainable secure the
 development, maintenance, release and consumption of open source software.
+
+[OSSF: The CRA Stewards One Pager](https://github.com/ossf/wg-globalcyberpolicy/blob/main/docs/CRA/stewards-one-pager.md)
+
+[OSSF: The Linux Foundation CRA Stewards Playbook](https://policy.openssf.org/CRA/stewards-playbook.html)
