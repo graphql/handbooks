@@ -35,6 +35,7 @@ Event coordinators are what makes those events possible.
   - Rollups
     - Designs: https://graphql.org/conf/conference-kit/
     - Do not put dates/locations so they can be reused
+    - Typical size is 85x200 cm
   - 1xA4 Plexi holder with the schedule
   - 1xA4 Plexi holder with a link to graphql.org and/or raffle
   - Stickers
