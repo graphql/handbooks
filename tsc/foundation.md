@@ -26,7 +26,8 @@ reference implementation, etc) and the GraphQL Foundation oversees everything
 else (legal, budget, events, marketing, etc).
 
 The Governing Board steers the GraphQL Foundation while day-to-day operations
-are managed by a team of Linux Foundation staff, community and board members.
+are managed by a team of board and community members, with the assistance of
+Linux Foundation staff.
 
 ## TSC
 
