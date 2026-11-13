@@ -161,3 +161,11 @@ Obviously only continue if the TSC approved!
 
 The spec should build and publish automatically via GitHub actions.
 Congratulations; the release is out!
+
+Now, go tell people about it! (You can delegate these tasks!)
+
+1. Create a new "release" on GitHub, e.g.
+   https://github.com/graphql/graphql-spec/releases
+1. Create a blog post, e.g.
+   https://graphql.org/blog/2026-11-12-announcing-the-graphql-over-http-spec/
+1. Schedule some messages to go out on social media, e.g. via Typefully.
